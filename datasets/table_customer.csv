@@ -1,0 +1,1001 @@
+customer_id,customer_name
+1,"Ir. Natalia Widodo, S.Pt"
+2,Juli Waluyo
+3,Hasna Zulaika
+4,"dr. Kamila Prabowo, S.H."
+5,"Budi Sirait, S.Ked"
+6,Karimah Permata
+7,Ami Thamrin
+8,"dr. Gawati Sihombing, S.I.Kom"
+9,Uchita Latupono
+10,Maras Purnawati
+11,drg. Shania Mangunsong
+12,Radit Hutasoit
+13,R.M. Daliman Sihombing
+14,Restu Nashiruddin
+15,Yulia Saputra
+16,KH. Najib Kurniawan
+17,"Cut Fathonah Halimah, S.Kom"
+18,R.M. Tedi Saragih
+19,Gada Sudiati
+20,Siti Pratiwi
+21,"Kurnia Yuliarti, S.Psi"
+22,"Ciaobella Wulandari, S.I.Kom"
+23,Shania Uwais
+24,Cornelia Prasetya
+25,Hj. Sarah Uyainah
+26,Tira Andriani
+27,"Jarwi Widodo, S.IP"
+28,Farhunnisa Widiastuti
+29,Unjani Pradana
+30,Wadi Prastuti
+31,Raina Mandala
+32,Drs. Paris Usamah
+33,Yuliana Lestari
+34,"Bagiya Wahyuni, M.TI."
+35,Pangeran Haryanti
+36,Elma Pratiwi
+37,"Faizah Latupono, S.H."
+38,"Baktiono Sihombing, S.E."
+39,Natalia Prasetyo
+40,Dalima Rajasa
+41,"Laras Kuswoyo, S.IP"
+42,Jane Firmansyah
+43,Tgk. Pranata Rajata
+44,"Drs. Tasnim Rahayu, S.H."
+45,"Dr. Queen Laksmiwati, S.H."
+46,Carla Sirait
+47,Cindy Situmorang
+48,Farhunnisa Sihotang
+49,drg. Dina Nuraini
+50,"Tari Rahmawati, S.Pd"
+51,Lukita Widodo
+52,Maria Susanti
+53,Sabrina Dabukke
+54,Najwa Nasyiah
+55,Sidiq Rahimah
+56,Vivi Haryanti
+57,Ir. Heryanto Rahayu
+58,Mutia Prasasta
+59,"Ellis Anggriawan, S.Psi"
+60,Keisha Adriansyah
+61,Gandewa Putra
+62,Winda Sihotang
+63,H. Danang Novitasari
+64,Mustika Pratama
+65,Nabila Purnawati
+66,Maya Haryanto
+67,Prayogo Megantara
+68,Nabila Andriani
+69,Gilda Usada
+70,"Taufik Rajata, S.E.I"
+71,"Ratih Kuswoyo, M.Farm"
+72,"Kajen Januar, S.Pd"
+73,"Drs. Bagya Handayani, S.IP"
+74,Puspa Susanti
+75,"Usyi Halim, S.E."
+76,Drs. Yahya Utama
+77,"Joko Sirait, M.TI."
+78,"Michelle Manullang, S.E."
+79,dr. Victoria Wijayanti
+80,Hj. Zalindra Melani
+81,Ganda Haryanto
+82,Cakrabuana Siregar
+83,"Tantri Hastuti, S.Kom"
+84,"Jasmani Widodo, S.IP"
+85,Irma Irawan
+86,"Sari Kusmawati, S.Psi"
+87,Cinthia Ramadan
+88,"Yunita Putra, S.Psi"
+89,Tgk. Aditya Yulianti
+90,Jayadi Mulyani
+91,Usman Hutagalung
+92,Qori Hutapea
+93,R. Intan Saragih
+94,Puti Nasyiah
+95,Ira Saptono
+96,Drs. Jatmiko Usada
+97,"Jessica Wijayanti, S.Psi"
+98,Damu Damanik
+99,Keisha Novitasari
+100,"Ir. Kamila Mangunsong, S.Ked"
+101,"Dr. Gada Wastuti, S.Ked"
+102,"Hj. Humaira Samosir, S.IP"
+103,"Hj. Icha Wulandari, S.Gz"
+104,Puti Paulin Sirait
+105,Unggul Samosir
+106,"Ir. Belinda Wijaya, M.Pd"
+107,"Lili Melani, S.T."
+108,Atma Maulana
+109,Eva Kuswoyo
+110,Hardana Saragih
+111,"Kamaria Jailani, S.Sos"
+112,"Tgk. Lintang Januar, S.Pt"
+113,Drs. Siska Mardhiyah
+114,Teguh Saputra
+115,"Ikin Adriansyah, M.Farm"
+116,Hj. Sabrina Permata
+117,Cornelia Widodo
+118,Anom Pradana
+119,Jasmani Nugroho
+120,Wirda Oktaviani
+121,Paulin Wahyudin
+122,Cici Hutasoit
+123,"R. Bella Dongoran, S.H."
+124,Elisa Laksmiwati
+125,Gandi Prayoga
+126,Hana Prabowo
+127,"R.A. Dewi Purnawati, S.Sos"
+128,Queen Widiastuti
+129,Salimah Gunawan
+130,"Dr. Anastasia Oktaviani, S.Pd"
+131,"Maimunah Manullang, M.Ak"
+132,"Puput Laksita, S.T."
+133,"Drs. Jumadi Oktaviani, M.TI."
+134,Oskar Adriansyah
+135,"Bella Narpati, S.Kom"
+136,Faizah Saragih
+137,"Karimah Waluyo, M.Farm"
+138,Ir. Belinda Astuti
+139,Heryanto Pangestu
+140,Carla Irawan
+141,Puti Laras Safitri
+142,Cut Faizah Putra
+143,Cut Fathonah Wibisono
+144,"R. Wulan Laksita, S.Kom"
+145,"Mursita Megantara, S.Ked"
+146,Rahayu Ardianto
+147,"Sutan Adhiarja Pratiwi, S.I.Kom"
+148,Aisyah Nasyiah
+149,Niyaga Hartati
+150,drg. Zaenab Tarihoran
+151,Tgk. Ella Permata
+152,Emil Sitorus
+153,Shania Puspita
+154,"Puti Yessi Sihombing, S.I.Kom"
+155,"KH. Hairyanto Maheswara, M.Ak"
+156,Asirwada Wahyuni
+157,"Gangsa Siregar, S.Sos"
+158,Lala Tarihoran
+159,T. Dono Yuliarti
+160,"Marsito Maulana, S.Psi"
+161,Bakiadi Pradana
+162,Ir. Taufan Siregar
+163,"Endra Widiastuti, S.E."
+164,"Kamila Wastuti, M.TI."
+165,"dr. Surya Situmorang, M.M."
+166,"R.A. Kania Suryono, S.E."
+167,Lukita Prabowo
+168,"dr. Slamet Wijaya, M.Kom."
+169,"R. Tantri Gunawan, M.Kom."
+170,Humaira Prakasa
+171,Virman Purnawati
+172,Dr. Estiawan Usamah
+173,"Dr. Natalia Prasasta, S.Ked"
+174,"Drs. Martani Winarsih, S.Sos"
+175,Ganep Purwanti
+176,Dimas Mansur
+177,Tgk. Eli Oktaviani
+178,Endah Laksita
+179,"Sutan Mahdi Firmansyah, M.Kom."
+180,"Jarwadi Purwanti, S.Psi"
+181,T. Prayogo Prasasta
+182,Drs. Cemani Lestari
+183,"Puti Bella Rajata, S.Ked"
+184,"Dr. Tasnim Usada, S.IP"
+185,Salsabila Nashiruddin
+186,Balijan Prasetyo
+187,"Kamila Uyainah, M.Farm"
+188,Bella Wahyudin
+189,Farhunnisa Purwanti
+190,Slamet Oktaviani
+191,Anita Mansur
+192,Puti Cinta Yuliarti
+193,Ir. Paris Hassanah
+194,"drg. Paiman Sitorus, S.Psi"
+195,Gilda Prasasta
+196,Ina Prabowo
+197,"H. Viman Hakim, S.Ked"
+198,Elvin Hasanah
+199,Ella Pradana
+200,Soleh Suwarno
+201,"Eka Usada, M.TI."
+202,Gabriella Mayasari
+203,"Cut Clara Ramadan, S.T."
+204,Dartono Pudjiastuti
+205,Indah Laksmiwati
+206,"T. Nalar Marbun, M.Ak"
+207,Ulva Riyanti
+208,Caturangga Waluyo
+209,Ani Nasyiah
+210,Gabriella Utami
+211,"Martani Firmansyah, S.Gz"
+212,drg. Anita Purnawati
+213,drg. Ilyas Maryadi
+214,drg. Bajragin Prasetyo
+215,drg. Vivi Sihombing
+216,Karen Prabowo
+217,Bahuwarna Haryanti
+218,"Tgk. Icha Winarno, S.Farm"
+219,Ir. Jail Andriani
+220,"Elvina Prasetyo, S.H."
+221,Nurul Laksita
+222,Almira Utama
+223,Wawan Sihotang
+224,Pia Fujiati
+225,Wani Firmansyah
+226,Kayla Putra
+227,"Umar Kuswoyo, S.T."
+228,"Rina Ardianto, S.Kom"
+229,"Gantar Agustina, S.I.Kom"
+230,Lukita Aryani
+231,Rika Mansur
+232,"Tgk. Ibun Rajasa, S.Pd"
+233,"Harto Wastuti, S.IP"
+234,Ida Suryono
+235,"Drs. Michelle Utami, S.T."
+236,Siti Mayasari
+237,"Elisa Fujiati, S.Pt"
+238,Karimah Lazuardi
+239,Gilda Farida
+240,"dr. Farhunnisa Saptono, S.IP"
+241,Harjasa Adriansyah
+242,KH. Radika Haryanti
+243,Qori Santoso
+244,Olivia Sirait
+245,Zelaya Andriani
+246,Dalimin Sitompul
+247,Belinda Kuswoyo
+248,"Mumpuni Wahyudin, S.E."
+249,Cut Qori Agustina
+250,Cornelia Ardianto
+251,Ilsa Iswahyudi
+252,Kajen Halimah
+253,drg. Balangga Puspasari
+254,drg. Umi Nurdiyanti
+255,Dadi Winarno
+256,Jessica Padmasari
+257,"Adhiarja Prabowo, S.Pd"
+258,Ajiman Maheswara
+259,Vivi Pratiwi
+260,Candrakanta Handayani
+261,Pia Prasetyo
+262,Alika Prasetyo
+263,Tasdik Prayoga
+264,Dt. Timbul Suryono
+265,Maya Hutagalung
+266,Jaeman Kuswoyo
+267,"Dr. Danuja Sudiati, S.T."
+268,"R. Hamima Permata, S.Kom"
+269,Salwa Dabukke
+270,drg. Laswi Andriani
+271,Yessi Wulandari
+272,Aurora Kuswandari
+273,Hj. Anita Utama
+274,"Jayeng Mustofa, S.Farm"
+275,Hj. Kasiyah Hartati
+276,Dr. Omar Ramadan
+277,"Daniswara Nababan, S.Psi"
+278,Ida Sitompul
+279,Cinta Natsir
+280,Slamet Prakasa
+281,"Cut Eli Widodo, S.Ked"
+282,"Drs. Muni Gunarto, S.Sos"
+283,Ir. Pardi Widiastuti
+284,Ilyas Hardiansyah
+285,"Michelle Yolanda, S.H."
+286,Hana Situmorang
+287,Okto Pangestu
+288,Fathonah Saefullah
+289,Gamblang Zulkarnain
+290,"Tgk. Latika Tampubolon, S.I.Kom"
+291,Enteng Yuniar
+292,"R. Genta Tarihoran, M.TI."
+293,"Zizi Latupono, S.E.I"
+294,dr. Juli Anggraini
+295,Prasetyo Prakasa
+296,Darimin Farida
+297,"Eva Anggriawan, M.Kom."
+298,"Laksana Hastuti, S.E."
+299,"Kardi Latupono, S.E.I"
+300,Hesti Mangunsong
+301,"Ir. Ani Kusmawati, S.Pd"
+302,Hj. Sarah Yuliarti
+303,"Mutia Nasyidah, S.H."
+304,Laras Mandasari
+305,"Ir. Galiono Thamrin, M.Farm"
+306,Septi Pertiwi
+307,"Bancar Ardianto, M.Pd"
+308,Pangestu Puspasari
+309,Gawati Haryanto
+310,Cahyanto Habibi
+311,Umaya Laksita
+312,Jaswadi Yolanda
+313,Tantri Budiyanto
+314,Dt. Lantar Marbun
+315,drg. Warsa Sitorus
+316,"H. Kayun Melani, S.Gz"
+317,Ajimat Simanjuntak
+318,"Nurul Narpati, S.Gz"
+319,Oliva Sinaga
+320,Tami Sudiati
+321,R. Kanda Pudjiastuti
+322,T. Gading Anggraini
+323,Hasim Dabukke
+324,Abyasa Melani
+325,Harjaya Halim
+326,Maras Purwanti
+327,dr. Virman Yuniar
+328,"Elisa Saptono, S.T."
+329,drg. Dina Manullang
+330,"Okto Pangestu, M.TI."
+331,Bakiadi Lestari
+332,"Vega Hutasoit, M.Farm"
+333,Adiarja Jailani
+334,R.M. Chandra Damanik
+335,Carub Mandala
+336,Gatot Prabowo
+337,Yoga Mangunsong
+338,Eluh Pratiwi
+339,"Latika Puspasari, M.Ak"
+340,"Umay Uwais, S.I.Kom"
+341,Drs. Tania Tamba
+342,"Drs. Gawati Thamrin, S.IP"
+343,"Irfan Samosir, S.I.Kom"
+344,Marsudi Zulkarnain
+345,Jefri Wahyudin
+346,"Hani Hidayanto, S.Psi"
+347,"Amelia Namaga, S.Pt"
+348,Dian Dongoran
+349,"Sari Nababan, M.Farm"
+350,Mahdi Rajasa
+351,"Dr. Queen Rahayu, S.E.I"
+352,Kasiyah Sirait
+353,Syahrini Pudjiastuti
+354,Hj. Diana Wibowo
+355,Putri Prasetya
+356,"Tantri Palastri, S.Pd"
+357,Hardana Nugroho
+358,Ikhsan Melani
+359,Edi Suwarno
+360,"Karen Nainggolan, S.Sos"
+361,Sakura Maryadi
+362,Hj. Salwa Narpati
+363,Ganep Purnawati
+364,Ulya Setiawan
+365,Dr. Widya Hasanah
+366,Winda Siregar
+367,"Jarwi Siregar, S.IP"
+368,"R. Janet Saptono, S.E.I"
+369,Rahayu Nugroho
+370,Wahyu Suwarno
+371,Ina Dongoran
+372,Darijan Natsir
+373,"H. Gadang Nuraini, M.Farm"
+374,H. Margana Tarihoran
+375,Kiandra Permata
+376,"Drs. Dipa Halimah, S.E.I"
+377,Ciaobella Padmasari
+378,Heru Megantara
+379,R.A. Elma Maheswara
+380,Eluh Maheswara
+381,Maya Pudjiastuti
+382,"Kezia Susanti, S.E.I"
+383,"Zalindra Aryani, M.Pd"
+384,"Prabowo Zulkarnain, S.E."
+385,Bancar Fujiati
+386,Julia Irawan
+387,Gangsa Hasanah
+388,Chelsea Winarno
+389,"Elisa Melani, S.Ked"
+390,Lili Rajasa
+391,Puji Prasetya
+392,"Karen Sitompul, M.Ak"
+393,Vinsen Simanjuntak
+394,Kamaria Adriansyah
+395,Bagiya Irawan
+396,"Shakila Puspasari, S.H."
+397,Ayu Safitri
+398,Sakura Damanik
+399,Irwan Farida
+400,R.M. Asirwada Salahudin
+401,"Tgk. Lala Mangunsong, S.Sos"
+402,Nadia Nasyidah
+403,"Hj. Laras Uwais, M.Pd"
+404,"Wulan Aryani, S.E."
+405,"Wasis Sihombing, S.T."
+406,Salsabila Damanik
+407,Hamzah Pratiwi
+408,Wadi Susanti
+409,"Dr. Mitra Hutagalung, S.Kom"
+410,"Maryanto Pertiwi, S.Gz"
+411,Najib Uyainah
+412,Edison Najmudin
+413,"Dr. Eli Haryanto, S.T."
+414,Dinda Latupono
+415,"Ani Nababan, S.T."
+416,Latika Widiastuti
+417,Cornelia Sihombing
+418,"Drs. Ani Tarihoran, S.Sos"
+419,R. Ade Pangestu
+420,Jamal Kuswoyo
+421,Rafid Hutapea
+422,"T. Rafi Prayoga, S.T."
+423,Rika Thamrin
+424,Oskar Prabowo
+425,Cengkal Saptono
+426,"Raditya Mayasari, S.Farm"
+427,Anita Sirait
+428,Maida Palastri
+429,Uchita Permadi
+430,R. Puspa Wacana
+431,Paris Mayasari
+432,Emong Usamah
+433,"Jaga Nuraini, S.E."
+434,Dalimin Padmasari
+435,"Tgk. Carub Pangestu, S.I.Kom"
+436,"dr. Umaya Utama, S.E.I"
+437,Drs. Queen Mayasari
+438,Ina Nuraini
+439,Julia Firmansyah
+440,Pardi Hutapea
+441,Gabriella Usamah
+442,Zamira Ardianto
+443,Sarah Lazuardi
+444,Umar Maryadi
+445,Faizah Narpati
+446,"Tgk. Slamet Gunarto, S.Sos"
+447,"Hj. Puspa Susanti, M.Farm"
+448,Mulya Mangunsong
+449,Cut Keisha Laksmiwati
+450,"Diah Iswahyudi, S.Kom"
+451,Galih Napitupulu
+452,Padmi Nashiruddin
+453,Lalita Latupono
+454,Heryanto Ramadan
+455,Amalia Setiawan
+456,Eka Prasetya
+457,"Nrima Hakim, S.Pt"
+458,Drs. Makara Handayani
+459,"H. Galuh Wulandari, M.Kom."
+460,Oliva Tarihoran
+461,Eli Permata
+462,drg. Rahayu Mansur
+463,R.A. Farah Prasasta
+464,Tania Hartati
+465,Dr. Latif Palastri
+466,Nilam Gunarto
+467,"R.M. Radit Wijayanti, S.E.I"
+468,"Pia Marpaung, M.Kom."
+469,"R. Damar Rahayu, S.I.Kom"
+470,Gangsar Uwais
+471,Zulfa Rahayu
+472,Yunita Mansur
+473,"Ir. Winda Tampubolon, S.Gz"
+474,"Usyi Lestari, S.Pt"
+475,dr. Halima Uyainah
+476,Salimah Budiman
+477,drg. Jati Utami
+478,"Dr. Jessica Anggriawan, S.T."
+479,"Maida Riyanti, S.I.Kom"
+480,Raden Dabukke
+481,"dr. Irwan Sirait, S.Kom"
+482,"Ellis Adriansyah, M.Kom."
+483,Cagak Nababan
+484,"R.M. Jatmiko Winarno, S.T."
+485,Kasiran Laksmiwati
+486,R.A. Belinda Budiyanto
+487,Imam Gunarto
+488,Widya Nashiruddin
+489,Naradi Mandasari
+490,Siti Yuniar
+491,"dr. Mahdi Novitasari, S.Gz"
+492,Wulan Utama
+493,Mustika Aryani
+494,Patricia Riyanti
+495,Ir. Okta Yulianti
+496,"Aurora Hardiansyah, M.Ak"
+497,dr. Oliva Prasetyo
+498,Hj. Rahayu Januar
+499,Hasna Kuswoyo
+500,Gawati Laksmiwati
+501,Gambira Padmasari
+502,"dr. Edi Nasyidah, S.Gz"
+503,Surya Ramadan
+504,"Dagel Siregar, S.Sos"
+505,Tgk. Aisyah Manullang
+506,Rafi Pangestu
+507,"Ikin Maheswara, S.Kom"
+508,Rina Permata
+509,"Ilsa Waskita, S.I.Kom"
+510,Dt. Prima Samosir
+511,Samsul Maulana
+512,Slamet Iswahyudi
+513,Wardi Usamah
+514,Kamila Hasanah
+515,Puji Lailasari
+516,Lintang Zulkarnain
+517,Yunita Suwarno
+518,Sarah Wulandari
+519,Karen Marbun
+520,Cecep Purwanti
+521,Alika Wasita
+522,dr. Cemeti Wijaya
+523,"Rahayu Pangestu, M.Farm"
+524,drg. Jais Mardhiyah
+525,Diah Mangunsong
+526,"Imam Saputra, M.Farm"
+527,"Ir. Hendri Ardianto, S.E."
+528,Daliman Farida
+529,"Puti Ratih Anggriawan, S.I.Kom"
+530,Melinda Saragih
+531,"Farah Kuswoyo, S.H."
+532,Drs. Intan Najmudin
+533,R. Rika Handayani
+534,"T. Nasim Nuraini, S.Ked"
+535,Balapati Firmansyah
+536,Ridwan Pranowo
+537,Estiawan Maryadi
+538,Bambang Setiawan
+539,"Lidya Waluyo, M.Farm"
+540,"H. Gangsar Aryani, M.Farm"
+541,"Widya Ramadan, S.Farm"
+542,Ghani Permadi
+543,"Dr. Luluh Hidayanto, S.Gz"
+544,Ganda Prabowo
+545,Raihan Kuswoyo
+546,Darimin Permata
+547,Kajen Mustofa
+548,"Puti Nilam Kusumo, S.T."
+549,"Widya Wahyuni, S.Pt"
+550,Cakrajiya Hidayanto
+551,"Drs. Anom Siregar, S.H."
+552,drg. Lulut Hastuti
+553,T. Cagak Prasetya
+554,"Ir. Ami Melani, M.Farm"
+555,Tania Pudjiastuti
+556,Tirtayasa Palastri
+557,Oman Waskita
+558,Uli Suartini
+559,Karsa Tampubolon
+560,Gambira Saefullah
+561,"Padma Januar, S.E.I"
+562,"Hj. Putri Irawan, S.Ked"
+563,Opung Iswahyudi
+564,"H. Nrima Firgantoro, M.Kom."
+565,"Vivi Megantara, S.Farm"
+566,"Umaya Samosir, S.Pd"
+567,"Dt. Dadap Natsir, M.Ak"
+568,Jindra Kusmawati
+569,Dr. Tantri Firmansyah
+570,"R. Kasusra Prabowo, S.Psi"
+571,Olivia Hasanah
+572,Ifa Hastuti
+573,Dinda Ardianto
+574,Opan Hasanah
+575,"Dr. Harto Situmorang, S.Gz"
+576,Karsa Mahendra
+577,Cayadi Kuswandari
+578,Teguh Mustofa
+579,Cinta Mahendra
+580,"Ayu Megantara, S.Kom"
+581,Hairyanto Natsir
+582,Ir. Mutia Irawan
+583,"Dr. Naradi Pratiwi, M.M."
+584,Prima Wahyuni
+585,Puti Rina Januar
+586,Jayadi Anggriawan
+587,Taufan Maryati
+588,Sakti Mahendra
+589,Puji Nurdiyanti
+590,Eli Ardianto
+591,Dodo Salahudin
+592,Kayla Hariyah
+593,Aris Palastri
+594,"Dt. Warsa Firmansyah, M.Pd"
+595,"Syahrini Rahmawati, S.Psi"
+596,Tgk. Wirda Wacana
+597,"Drs. Tantri Waluyo, M.TI."
+598,"Hj. Iriana Zulaika, S.Sos"
+599,Lasmono Hartati
+600,"Kuncara Saefullah, S.Gz"
+601,Putri Anggriawan
+602,"Prabu Hutapea, S.T."
+603,Kezia Anggriawan
+604,Asmadi Padmasari
+605,Warji Safitri
+606,"Ir. Bagus Sudiati, S.Sos"
+607,Iriana Pratiwi
+608,Sutan Bahuwirya Prayoga
+609,Cakrawala Maryati
+610,Endah Maryadi
+611,Labuh Dabukke
+612,Cengkal Dabukke
+613,Nabila Firgantoro
+614,"Luwes Pudjiastuti, S.Gz"
+615,Cahyo Dongoran
+616,"H. Damar Putra, S.Gz"
+617,Clara Hassanah
+618,"Ida Yolanda, M.Kom."
+619,Jayadi Iswahyudi
+620,Ir. Yuliana Waluyo
+621,"Cecep Pradipta, S.Pt"
+622,Raden Setiawan
+623,"drg. Farhunnisa Fujiati, M.Ak"
+624,Dadap Gunarto
+625,Mahmud Kuswoyo
+626,Violet Yuliarti
+627,Yono Narpati
+628,Banawa Pudjiastuti
+629,Dirja Widiastuti
+630,Febi Widiastuti
+631,Asmianto Tarihoran
+632,"Cut Ghaliyati Kusmawati, S.Psi"
+633,Gaman Waskita
+634,Belinda Fujiati
+635,Gaduh Santoso
+636,Dr. Mala Yulianti
+637,Queen Wasita
+638,Samiah Iswahyudi
+639,Dipa Pratama
+640,Mahmud Pratama
+641,Qori Saragih
+642,Hasan Firmansyah
+643,Ibrani Sirait
+644,Cut Citra Usamah
+645,"Ganda Hakim, S.Sos"
+646,"Endra Utama, S.Sos"
+647,Unjani Ramadan
+648,"Ajiman Budiyanto, S.IP"
+649,Jarwadi Winarsih
+650,Danang Pertiwi
+651,Nadia Winarno
+652,Aslijan Sirait
+653,"Marwata Situmorang, S.Pt"
+654,Ir. Cawisadi Manullang
+655,"Dr. Jaya Sudiati, M.Pd"
+656,"Anom Palastri, S.Ked"
+657,Prabowo Megantara
+658,"Puput Zulaika, M.Pd"
+659,Hardi Andriani
+660,Umaya Siregar
+661,"R. Zizi Prasetya, S.E."
+662,Pranawa Dabukke
+663,Laswi Dongoran
+664,"Tiara Budiman, M.Pd"
+665,Bagya Mandala
+666,"Vera Hutagalung, M.Kom."
+667,"Cindy Narpati, M.M."
+668,Bahuraksa Damanik
+669,Cagak Haryanto
+670,Panca Damanik
+671,"Ir. Genta Waskita, M.Pd"
+672,Gina Sudiati
+673,"R. Dalima Wulandari, S.E.I"
+674,Lukman Kurniawan
+675,Pranata Rahayu
+676,"Hardi Pradana, S.Pd"
+677,Azalea Anggriawan
+678,Cahyono Mulyani
+679,"Pia Puspasari, S.Pd"
+680,Kasim Nainggolan
+681,Virman Nurdiyanti
+682,"Cinta Tamba, S.Farm"
+683,Rika Anggraini
+684,Unjani Utama
+685,"Puspa Haryanti, M.M."
+686,Sutan Luthfi Nainggolan
+687,Kenes Yolanda
+688,Ophelia Prabowo
+689,KH. Capa Uwais
+690,"Lalita Manullang, S.Pt"
+691,Dalima Mustofa
+692,T. Argono Pertiwi
+693,Vino Marbun
+694,"Ir. Warta Hardiansyah, S.Pt"
+695,Agus Damanik
+696,Gatra Waluyo
+697,Halima Firmansyah
+698,drg. Caturangga Anggraini
+699,"Cahyo Saragih, S.I.Kom"
+700,Fitriani Agustina
+701,KH. Joko Namaga
+702,drg. Elvina Hastuti
+703,"Viman Salahudin, S.E.I"
+704,Tgk. Agus Wulandari
+705,Aswani Sitompul
+706,"Gabriella Nasyidah, M.Farm"
+707,"Qori Putra, S.I.Kom"
+708,Cecep Natsir
+709,Cawisono Anggriawan
+710,Rahayu Setiawan
+711,Lasmanto Habibi
+712,"Bakti Gunarto, S.Pt"
+713,Ira Usada
+714,Wirda Siregar
+715,dr. Tina Wibisono
+716,H. Cawisadi Wacana
+717,"Dr. Ikin Saefullah, M.Kom."
+718,Laila Permadi
+719,Harjo Anggriawan
+720,Febi Andriani
+721,"R. Sabar Hardiansyah, M.Kom."
+722,Ghani Hasanah
+723,Dadap Thamrin
+724,"R. Zelaya Tamba, S.H."
+725,Ade Pratiwi
+726,R. Gilda Kusumo
+727,Ratna Nasyiah
+728,"drg. Rama Sirait, S.H."
+729,Maman Gunarto
+730,Ayu Halim
+731,Latika Andriani
+732,Hj. Olivia Hutasoit
+733,Ir. Raisa Kuswoyo
+734,Mustika Nugroho
+735,Hari Thamrin
+736,Warji Novitasari
+737,Drs. Jumadi Pratama
+738,Sutan Yahya Hartati
+739,Nardi Zulkarnain
+740,"Yunita Pertiwi, S.Gz"
+741,Drs. Intan Hutapea
+742,"dr. Waluyo Irawan, M.Kom."
+743,"Radika Thamrin, S.H."
+744,Garda Pradipta
+745,Karja Purnawati
+746,Ganep Lazuardi
+747,"Praba Pudjiastuti, S.Psi"
+748,Latif Prayoga
+749,"R.M. Cayadi Situmorang, S.E.I"
+750,Nilam Purwanti
+751,Balijan Gunarto
+752,"Gada Permata, S.Pd"
+753,Rizki Siregar
+754,Jaswadi Pradana
+755,Rini Zulaika
+756,Putri Hidayanto
+757,"Farhunnisa Novitasari, S.Farm"
+758,Ir. Gatot Siregar
+759,"Yahya Rahimah, S.Ked"
+760,Anastasia Widiastuti
+761,Kartika Prasasta
+762,Indah Manullang
+763,Amelia Jailani
+764,Ade Damanik
+765,Lidya Habibi
+766,Victoria Siregar
+767,Narji Utami
+768,Ulya Rajasa
+769,Umi Rajasa
+770,Cornelia Iswahyudi
+771,Mulyono Rahmawati
+772,"Lalita Tampubolon, M.M."
+773,Tantri Setiawan
+774,"Dt. Oman Salahudin, S.Pd"
+775,"Nadia Hartati, S.H."
+776,Bagiya Usamah
+777,Hj. Yunita Firmansyah
+778,"Aslijan Lestari, M.Pd"
+779,Jagapati Najmudin
+780,"Fitriani Prakasa, S.Gz"
+781,Drs. Ayu Uwais
+782,Keisha Habibi
+783,R.A. Titin Samosir
+784,Hari Puspita
+785,"R. Cinthia Mayasari, S.Psi"
+786,Dr. Prasetya Handayani
+787,Puti Olivia Mandasari
+788,Wardi Saefullah
+789,"Alambana Wahyudin, S.H."
+790,"Banawa Mandala, S.Gz"
+791,Titin Samosir
+792,Maimunah Usada
+793,Dr. Shania Widiastuti
+794,Tgk. Amalia Mandala
+795,Unggul Hutasoit
+796,Alika Megantara
+797,Karja Lestari
+798,"Hilda Santoso, S.E."
+799,Dina Setiawan
+800,Eko Astuti
+801,"Tgk. Emas Pangestu, M.M."
+802,"Ina Uyainah, M.M."
+803,Jayeng Melani
+804,"Fathonah Tamba, M.Pd"
+805,Jabal Oktaviani
+806,Betania Budiyanto
+807,Mahfud Dongoran
+808,Kemba Mulyani
+809,"R. Nilam Pratama, S.H."
+810,Gaduh Widodo
+811,Ratna Pradipta
+812,Tgk. Cahyono Mustofa
+813,Rini Pudjiastuti
+814,Raina Hutagalung
+815,R.A. Oliva Wahyuni
+816,Tgk. Putri Laksmiwati
+817,"Drs. Siti Lailasari, M.Farm"
+818,"Drs. Dinda Simanjuntak, S.E."
+819,Melinda Sitorus
+820,Koko Lestari
+821,Aurora Agustina
+822,"Oman Wulandari, M.Ak"
+823,Diah Kusmawati
+824,"Argono Prasasta, S.Farm"
+825,Lurhur Anggriawan
+826,Tira Setiawan
+827,Ihsan Situmorang
+828,Paris Laksmiwati
+829,Intan Prayoga
+830,Prayoga Hastuti
+831,Karimah Puspasari
+832,"Drs. Bakianto Uwais, M.Ak"
+833,Violet Agustina
+834,"Dt. Kajen Widodo, S.E."
+835,Michelle Nababan
+836,"Ir. Sakura Maryati, S.Kom"
+837,"Luthfi Namaga, S.E.I"
+838,Putri Lestari
+839,Dian Hakim
+840,Kariman Halimah
+841,Titi Narpati
+842,"Julia Marpaung, S.E."
+843,Kemba Narpati
+844,Dt. Utama Wasita
+845,Hani Utama
+846,"Tgk. Salimah Pangestu, M.Pd"
+847,Soleh Hidayat
+848,Qori Nainggolan
+849,"Putri Sitorus, M.Pd"
+850,"Tgk. Fitria Prasasta, S.Pt"
+851,Upik Pratama
+852,Puti Betania Wasita
+853,Nasrullah Yuliarti
+854,"Balapati Hardiansyah, S.Sos"
+855,Ira Mangunsong
+856,Balidin Purnawati
+857,"KH. Mariadi Jailani, S.E.I"
+858,Cemeti Suartini
+859,Salwa Prasetya
+860,Nabila Tarihoran
+861,Edi Dabukke
+862,Maimunah Namaga
+863,Dacin Prasetyo
+864,Umaya Safitri
+865,"Cinta Permadi, M.Ak"
+866,"Ika Winarsih, S.IP"
+867,Yosef Wijayanti
+868,Mahesa Prasetya
+869,"Tasnim Hartati, S.E."
+870,"Violet Wijaya, S.IP"
+871,Rini Laksita
+872,"R.M. Jayeng Hariyah, S.E."
+873,Cahyo Manullang
+874,"Lidya Astuti, S.IP"
+875,"Hani Samosir, M.TI."
+876,Lili Yuniar
+877,Gina Prasasta
+878,Arta Prasetya
+879,Harto Haryanti
+880,Tgk. Daru Santoso
+881,Keisha Hutagalung
+882,Alambana Manullang
+883,Hairyanto Halimah
+884,KH. Jumadi Wasita
+885,Mila Nababan
+886,Fitria Situmorang
+887,Jaka Oktaviani
+888,Hamima Maheswara
+889,Ajeng Mandasari
+890,Cahyadi Handayani
+891,Lukita Purwanti
+892,Salman Puspita
+893,Halima Anggraini
+894,Queen Purwanti
+895,Titi Hariyah
+896,Carla Suryatmi
+897,"R.A. Wirda Gunawan, S.E.I"
+898,Ir. Kemal Pradipta
+899,Eka Puspita
+900,drg. Ophelia Januar
+901,Natalia Widiastuti
+902,Safina Pangestu
+903,Vanya Andriani
+904,R.A. Salwa Winarno
+905,"Drs. Vicky Pudjiastuti, S.Ked"
+906,H. Jaya Winarno
+907,Mala Mandala
+908,R. Wani Hardiansyah
+909,Zalindra Hutapea
+910,Anastasia Pudjiastuti
+911,Cindy Andriani
+912,Sabar Hakim
+913,"Salman Hidayat, S.T."
+914,Rusman Adriansyah
+915,Danuja Maulana
+916,Rachel Pradana
+917,Sutan Asman Siregar
+918,Widya Saragih
+919,Nilam Damanik
+920,Cornelia Rahimah
+921,"T. Artawan Safitri, M.Kom."
+922,Dr. Cahyadi Nashiruddin
+923,Luwes Saragih
+924,Ir. Kanda Puspasari
+925,Baktiono Aryani
+926,Oman Permadi
+927,Makara Mangunsong
+928,Galang Wijayanti
+929,"Kawaya Januar, M.Ak"
+930,"Usman Manullang, M.TI."
+931,"Gamblang Yuniar, S.E.I"
+932,Labuh Saragih
+933,"Tgk. Putri Laksita, S.E.I"
+934,Wani Gunawan
+935,Muni Saefullah
+936,Zulfa Wibowo
+937,Ganep Marpaung
+938,"Tgk. Lurhur Utama, S.Ked"
+939,Karimah Najmudin
+940,Farhunnisa Hutapea
+941,"Dt. Wira Mansur, S.Farm"
+942,Jamalia Firmansyah
+943,Puti Eka Farida
+944,"R. Olga Januar, S.E."
+945,Cut Betania Fujiati
+946,Yuliana Wijayanti
+947,Balidin Latupono
+948,Yani Wibisono
+949,Kasusra Maryadi
+950,Martani Hutagalung
+951,Latif Rahayu
+952,Artawan Simbolon
+953,"Makuta Manullang, S.I.Kom"
+954,Irfan Wibowo
+955,Zalindra Thamrin
+956,Kamaria Nashiruddin
+957,Sutan Hamzah Waskita
+958,Soleh Pertiwi
+959,"Sabrina Puspita, S.Gz"
+960,"KH. Martana Nashiruddin, S.Gz"
+961,Asmianto Nashiruddin
+962,Ana Permata
+963,"Sutan Kusuma Dongoran, S.T."
+964,Wardaya Gunarto
+965,Alambana Wacana
+966,Ismail Simbolon
+967,"Sutan Malik Lailasari, S.T."
+968,Dr. Edi Sitompul
+969,Artawan Prabowo
+970,Gatra Yulianti
+971,Indah Hutasoit
+972,"Padma Usada, M.Kom."
+973,Cemeti Waluyo
+974,Julia Permadi
+975,Elvina Haryanto
+976,Iriana Utama
+977,"Dian Wibisono, S.E."
+978,Jefri Najmudin
+979,Dr. Mala Mayasari
+980,Ana Tarihoran
+981,Irsad Maulana
+982,Olivia Dabukke
+983,Almira Napitupulu
+984,"R. Aisyah Puspasari, S.Psi"
+985,Ami Januar
+986,Pardi Nurdiyanti
+987,"Wadi Dabukke, S.E."
+988,"Puput Haryanti, S.Ked"
+989,Dadap Waskita
+990,Mursita Suryatmi
+991,Kemba Firgantoro
+992,"dr. Hilda Hutagalung, M.Pd"
+993,Dr. Jarwa Pradana
+994,Belinda Waskita
+995,"Cawisono Tarihoran, S.Pt"
+996,Salimah Mandala
+997,"R.M. Opan Laksita, S.E.I"
+998,"Drs. Balangga Nashiruddin, S.Kom"
+999,"Ir. Kamaria Tamba, S.IP"
+1000,"Kacung Maheswara, M.M."

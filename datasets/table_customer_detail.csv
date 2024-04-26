@@ -1,0 +1,2001 @@
+customer_detail_id,customer_id,address,postal_code,phone_number
+1,1,"Gang Kiaracondong No. 0
+Kota Administrasi Jakarta Timur, DKI Jakarta 57772",49869,+62-090-004-2986
+2,2,"Jl. Cempaka No. 557
+Tidore Kepulauan, Jambi 80714",51751,+62-791-785-4698
+3,3,"Gg. Tebet Barat Dalam No. 2
+Depok, Gorontalo 28610",91246,+62 (881) 982-3257
+4,4,"Gang Kiaracondong No. 5
+Mojokerto, BT 36398",73741,(041) 625 4351
+5,5,"Gang Monginsidi No. 67
+Batam, Jambi 89094",72222,+62 (70) 124 5794
+6,6,"Jalan Abdul Muis No. 33
+Tebingtinggi, SS 09564",63147,+62 (055) 724 5017
+7,7,"Gg. Kutisari Selatan No. 38
+Kota Administrasi Jakarta Utara, KB 02116",20007,+62 (23) 089-7728
+8,8,"Jl. R.E Martadinata No. 44
+Banjar, Kalimantan Tengah 03514",50419,+62 (0585) 718 6587
+9,9,"Jl. Ronggowarsito No. 731
+Bau-Bau, Bengkulu 44149",01714,(0487) 216 9923
+10,10,"Gg. Tubagus Ismail No. 0
+Kota Administrasi Jakarta Selatan, SS 17780",86464,+62 (635) 677 4023
+11,11,"Gang Rumah Sakit No. 05
+Tangerang Selatan, MA 88222",95235,(058) 971 8366
+12,12,"Jl. Kebonjati No. 94
+Tebingtinggi, BE 38410",80891,+62-0626-016-4410
+13,13,"Jl. Kendalsari No. 3
+Depok, KI 19628",05082,+62 (624) 931 4122
+14,14,"Gg. Rumah Sakit No. 208
+Bogor, Sulawesi Tengah 08256",21034,(0110) 696-9401
+15,15,"Jl. Pasteur No. 73
+Tidore Kepulauan, Sumatera Barat 89517",05455,(071) 725 8904
+16,16,"Gang Rajawali Timur No. 622
+Cirebon, Kalimantan Selatan 04760",37834,(061) 759 1150
+17,17,"Jl. Pacuan Kuda No. 009
+Kota Administrasi Jakarta Pusat, Jawa Timur 27889",43507,+62 (63) 264-7839
+18,18,"Gang S. Parman No. 0
+Kota Administrasi Jakarta Pusat, Kalimantan Barat 69520",76278,+62-986-107-2703
+19,19,"Jl. Sukabumi No. 54
+Balikpapan, Sulawesi Utara 41016",25658,+62 (57) 699 4120
+20,20,"Gg. Abdul Muis No. 7
+Tarakan, Kalimantan Selatan 68211",23899,+62-17-731-0561
+21,21,"Jalan Tebet Barat Dalam No. 1
+Gorontalo, Jawa Timur 23602",42187,+62 (928) 049-6073
+22,22,"Jl. Siliwangi No. 9
+Padang, KT 10281",08212,(0968) 611 0008
+23,23,"Gang Jayawijaya No. 5
+Banjar, YO 04631",66297,082 573 3337
+24,24,"Gg. Waringin No. 03
+Surabaya, Sumatera Utara 83040",63744,(072) 586-8403
+25,25,"Gang Moch. Ramdan No. 666
+Kota Administrasi Jakarta Utara, Banten 97919",50900,+62 (031) 270 0289
+26,26,"Gg. Gegerkalong Hilir No. 73
+Denpasar, Aceh 36312",89923,+62 (692) 311 0333
+27,27,"Gang H.J Maemunah No. 50
+Bandar Lampung, Sulawesi Tengah 92015",49025,+62 (37) 743 7312
+28,28,"Gg. Kebonjati No. 67
+Palembang, SG 81046",16574,+62-0233-925-2633
+29,29,"Jl. Asia Afrika No. 4
+Palembang, SU 80654",51126,+62-0591-723-9573
+30,30,"Jalan Gegerkalong Hilir No. 369
+Sibolga, Jawa Barat 92532",51147,(011) 313-6293
+31,31,"Jl. Ciumbuleuit No. 149
+Surabaya, Sulawesi Barat 03804",11649,(0375) 014-9603
+32,32,"Gg. Sukabumi No. 10
+Bontang, KI 93290",36611,(0174) 824-2567
+33,33,"Jalan Pasir Koja No. 233
+Sukabumi, DKI Jakarta 54521",90077,(0876) 853-1294
+34,34,"Jalan Bangka Raya No. 12
+Lubuklinggau, JA 00790",93406,+62 (005) 322-5624
+35,35,"Gg. Indragiri No. 34
+Cimahi, NB 51626",05802,+62 (008) 687 5397
+36,36,"Jl. Kutai No. 1
+Tanjungpinang, Maluku Utara 08782",41970,+62 (50) 066 0225
+37,37,"Jl. Setiabudhi No. 6
+Kota Administrasi Jakarta Pusat, Bali 88688",80262,+62-026-697-7296
+38,38,"Gg. Laswi No. 247
+Bukittinggi, Maluku 59209",16859,(038) 278 0474
+39,39,"Gg. Rajawali Barat No. 7
+Kendari, JA 51270",73339,(042) 901-7134
+40,40,"Gg. Rajawali Timur No. 46
+Sukabumi, Kalimantan Timur 58334",23177,0873286725
+41,41,"Gang Yos Sudarso No. 17
+Lubuklinggau, Papua 14672",22263,+62 (413) 262 9373
+42,42,"Gang Waringin No. 9
+Padangpanjang, NT 09818",28735,+62 (042) 001 8086
+43,43,"Jl. Raya Setiabudhi No. 1
+Pagaralam, Sumatera Barat 13627",96841,+62 (0296) 528 9466
+44,44,"Gg. Rajiman No. 2
+Pekalongan, Jawa Timur 66952",29473,+62 (82) 876 7424
+45,45,"Jl. KH Amin Jasuta No. 374
+Sungai Penuh, NT 64978",04519,+62 (0148) 310 0421
+46,46,"Jl. Asia Afrika No. 718
+Bima, SR 43179",16887,(0466) 012 0345
+47,47,"Gg. Joyoboyo No. 355
+Payakumbuh, Riau 69387",75352,+62 (0814) 023-8503
+48,48,"Gg. HOS. Cokroaminoto No. 084
+Tarakan, LA 91864",92968,+62 (0448) 735 1027
+49,49,"Gang Kapten Muslihat No. 9
+Samarinda, BE 40880",93078,+62 (13) 092-0767
+50,50,"Jalan Kebonjati No. 6
+Solok, Papua 73097",86879,0880623861
+51,51,"Gg. PHH. Mustofa No. 81
+Banjar, SS 82226",07313,(0745) 806 8885
+52,52,"Jalan Otto Iskandardinata No. 6
+Pekalongan, KB 17866",04184,+62 (016) 618-7844
+53,53,"Jalan Jend. A. Yani No. 20
+Prabumulih, MU 16809",46665,+62 (0262) 552-9472
+54,54,"Gg. Jend. A. Yani No. 97
+Prabumulih, SU 22485",62508,083 688 5241
+55,55,"Gang Ronggowarsito No. 873
+Kendari, SU 02983",64712,082 021 3247
+56,56,"Gang Otto Iskandardinata No. 57
+Mataram, Lampung 10321",86873,+62-04-413-3489
+57,57,"Gang Lembong No. 149
+Yogyakarta, SN 33985",98541,(087) 873 3271
+58,58,"Jalan Kapten Muslihat No. 29
+Malang, BA 05334",34420,(065) 870 6507
+59,59,"Gang Jamika No. 31
+Bogor, Kepulauan Riau 77642",99202,+62 (12) 381 3516
+60,60,"Jalan Abdul Muis No. 88
+Tarakan, KB 65885",24810,(0224) 544 1574
+61,61,"Jl. Kebonjati No. 0
+Banjarmasin, JB 23010",50318,+62-062-829-7118
+62,62,"Gang Kapten Muslihat No. 64
+Langsa, Nusa Tenggara Barat 67439",29083,+62 (905) 865 3837
+63,63,"Jalan M.T Haryono No. 44
+Pariaman, Bengkulu 94540",59146,+62 (0311) 999-5193
+64,64,"Jl. W.R. Supratman No. 92
+Cilegon, SB 88539",08108,+62 (34) 816 1071
+65,65,"Gang Siliwangi No. 957
+Palu, Sumatera Barat 04569",16354,+62 (005) 251 6997
+66,66,"Jl. Moch. Ramdan No. 77
+Denpasar, BA 43401",63051,(0656) 020 4960
+67,67,"Gang Pelajar Pejuang No. 45
+Singkawang, Jawa Tengah 56416",43721,+62-974-830-6947
+68,68,"Gang Kiaracondong No. 541
+Bau-Bau, Jawa Barat 68306",10790,+62 (0202) 199 2824
+69,69,"Jalan Kendalsari No. 57
+Sorong, SU 24584",97470,+62 (020) 719-6485
+70,70,"Jalan Ronggowarsito No. 6
+Lhokseumawe, Kalimantan Barat 97493",82684,+62 (079) 462 2810
+71,71,"Gang Jayawijaya No. 81
+Solok, Sulawesi Utara 29177",44042,0801511260
+72,72,"Jalan K.H. Wahid Hasyim No. 633
+Palu, Maluku 72589",50059,+62-91-194-1180
+73,73,"Gang Raya Ujungberung No. 87
+Cirebon, Sulawesi Utara 06103",56646,+62 (458) 449-1156
+74,74,"Jalan Jend. Sudirman No. 355
+Banjarmasin, RI 74897",55851,(075) 297-6954
+75,75,"Gang M.T Haryono No. 01
+Depok, BT 21271",25563,(026) 282 5289
+76,76,"Gg. Monginsidi No. 51
+Bandung, Jawa Barat 20178",39864,(0524) 621-4900
+77,77,"Jl. W.R. Supratman No. 9
+Sibolga, JB 45854",13188,+62-905-127-7329
+78,78,"Gg. Bangka Raya No. 1
+Yogyakarta, SB 34804",97955,+62 (141) 138 4941
+79,79,"Gg. BKR No. 65
+Sungai Penuh, BA 46809",62690,+62 (039) 420 3291
+80,80,"Jl. KH Amin Jasuta No. 76
+Kediri, Riau 41167",82880,+62 (078) 455-9561
+81,81,"Gang Cikutra Barat No. 0
+Bekasi, MA 97507",36143,087 617 7634
+82,82,"Jalan Gardujati No. 3
+Tanjungbalai, BT 98989",28598,+62 (0395) 442-6821
+83,83,"Jl. M.H Thamrin No. 04
+Kotamobagu, Jambi 00920",94348,+62-0782-219-5117
+84,84,"Jalan Erlangga No. 57
+Depok, MA 39757",84163,+62 (012) 507-1155
+85,85,"Jalan Abdul Muis No. 64
+Kota Administrasi Jakarta Barat, KU 66954",90102,+62-477-189-6337
+86,86,"Jalan Gardujati No. 6
+Pangkalpinang, KT 00324",49279,+62-546-652-8199
+87,87,"Jalan W.R. Supratman No. 92
+Pekalongan, Lampung 81364",15625,0864537554
+88,88,"Jl. Pacuan Kuda No. 97
+Banjarbaru, RI 00561",66361,(013) 685 3076
+89,89,"Jalan Astana Anyar No. 28
+Tarakan, Bali 96960",05362,+62-392-364-9899
+90,90,"Jl. Erlangga No. 43
+Ternate, Sumatera Selatan 34240",77942,+62 (597) 108-4833
+91,91,"Gang Sadang Serang No. 357
+Padangpanjang, Kepulauan Riau 06070",90172,+62-040-396-0248
+92,92,"Jalan Rajiman No. 10
+Jambi, DKI Jakarta 58487",35578,+62-136-593-9346
+93,93,"Gang Suryakencana No. 28
+Samarinda, Sulawesi Tengah 86586",83243,+62 (0002) 429 2508
+94,94,"Jl. Lembong No. 94
+Tebingtinggi, Sulawesi Tengah 18523",31707,(0856) 655 7622
+95,95,"Gang Cempaka No. 6
+Gorontalo, Kalimantan Selatan 63682",53977,+62 (71) 353-0362
+96,96,"Gang W.R. Supratman No. 66
+Cilegon, Kalimantan Selatan 41927",11378,086 378 8860
+97,97,"Gg. Raya Ujungberung No. 34
+Kota Administrasi Jakarta Pusat, SR 16428",76515,+62 (82) 003 4752
+98,98,"Gang Sadang Serang No. 9
+Batu, ST 73592",58748,(005) 975 8311
+99,99,"Jalan BKR No. 930
+Kediri, KB 09364",23352,089 838 1673
+100,100,"Jalan Yos Sudarso No. 80
+Sorong, Kalimantan Timur 06591",21499,+62 (088) 186-1321
+101,101,"Gg. Abdul Muis No. 55
+Batam, Sulawesi Tenggara 81406",34549,+62 (073) 698-4757
+102,102,"Gg. Gedebage Selatan No. 13
+Kendari, BE 31919",80407,+62 (0984) 215-3557
+103,103,"Gg. Cihampelas No. 143
+Tasikmalaya, Kalimantan Utara 02761",54878,0839971614
+104,104,"Jalan Setiabudhi No. 31
+Pematangsiantar, LA 41552",01414,+62 (0960) 400 6695
+105,105,"Gg. Pelajar Pejuang No. 66
+Bandung, Lampung 27551",91016,087 974 9144
+106,106,"Jalan Suryakencana No. 25
+Kota Administrasi Jakarta Timur, SS 25528",12416,+62-0095-277-5386
+107,107,"Gang Cikutra Timur No. 883
+Lhokseumawe, Papua 47874",47104,+62-148-642-2892
+108,108,"Gang Rajiman No. 29
+Bukittinggi, Kepulauan Bangka Belitung 96277",94825,+62 (717) 653 2390
+109,109,"Jalan Gegerkalong Hilir No. 3
+Blitar, DKI Jakarta 80760",08782,+62 (14) 499 8805
+110,110,"Jalan Kutai No. 19
+Pangkalpinang, Maluku Utara 18934",73793,080 158 4804
+111,111,"Gg. Peta No. 294
+Semarang, JB 40349",36783,+62-79-100-4116
+112,112,"Jl. Merdeka No. 9
+Purwokerto, Jawa Barat 76468",94603,+62 (53) 801-6793
+113,113,"Gg. Cihampelas No. 175
+Madiun, Sumatera Utara 58793",16341,084 403 7883
+114,114,"Jalan Suniaraja No. 65
+Kota Administrasi Jakarta Barat, KB 76205",68669,+62 (30) 150 3571
+115,115,"Jl. Laswi No. 446
+Tanjungpinang, Bali 98284",44732,(0866) 257 7524
+116,116,"Gg. Monginsidi No. 20
+Bitung, LA 82011",99977,+62 (74) 441 1317
+117,117,"Gang Kebonjati No. 941
+Gorontalo, SU 54847",45413,(009) 713-0244
+118,118,"Jl. Ahmad Dahlan No. 36
+Surakarta, Sumatera Barat 25255",76290,+62 (204) 761-1612
+119,119,"Jalan Pasteur No. 55
+Medan, Bengkulu 18739",57320,+62 (925) 870 1428
+120,120,"Jalan Gegerkalong Hilir No. 609
+Tanjungbalai, Kalimantan Barat 41207",11784,+62-565-992-1658
+121,121,"Jalan Cikutra Timur No. 68
+Tegal, KB 52792",78569,(0495) 167-2257
+122,122,"Gg. Cikutra Timur No. 1
+Banda Aceh, NB 85523",17410,(068) 595-6635
+123,123,"Gang Astana Anyar No. 5
+Ternate, Sulawesi Barat 90761",57131,(0633) 780-9527
+124,124,"Jl. Ronggowarsito No. 639
+Tangerang Selatan, BA 00741",12824,+62-432-977-5037
+125,125,"Jl. BKR No. 327
+Purwokerto, Jawa Barat 16648",74126,(0240) 161-1117
+126,126,"Gang Cikutra Timur No. 2
+Serang, KS 72392",24592,(0737) 925 2172
+127,127,"Gang Stasiun Wonokromo No. 93
+Ambon, PB 15384",45149,+62 (0148) 289-2614
+128,128,"Gang Surapati No. 6
+Tual, Bengkulu 69975",52850,087 232 9748
+129,129,"Gg. Soekarno Hatta No. 4
+Singkawang, Nusa Tenggara Barat 46701",19792,(0384) 176-3237
+130,130,"Gg. KH Amin Jasuta No. 305
+Probolinggo, Bali 05691",34232,0808506462
+131,131,"Jl. Peta No. 05
+Sabang, Jawa Timur 81474",12583,(027) 169-5308
+132,132,"Gang Rawamangun No. 0
+Sungai Penuh, SN 46363",53045,+62-0505-884-6372
+133,133,"Jl. Rajiman No. 81
+Padang Sidempuan, Kalimantan Utara 96445",61300,+62-43-390-9080
+134,134,"Jl. W.R. Supratman No. 3
+Mojokerto, Jawa Tengah 91776",44786,0879654212
+135,135,"Jalan Cikutra Timur No. 9
+Singkawang, Sulawesi Tenggara 26325",83750,+62 (0997) 204-6870
+136,136,"Jalan Pelajar Pejuang No. 135
+Tangerang Selatan, BB 01715",62785,(0564) 967 6808
+137,137,"Jalan Pasir Koja No. 671
+Bitung, KI 92236",61696,+62 (74) 664-3184
+138,138,"Jalan Waringin No. 12
+Ternate, JB 34847",08280,+62-496-019-3679
+139,139,"Gg. Raya Setiabudhi No. 74
+Tanjungpinang, KT 46921",01447,+62 (53) 297 9776
+140,140,"Gang Kutai No. 9
+Semarang, Sulawesi Utara 89093",81033,+62 (0951) 492-8230
+141,141,"Gg. Pacuan Kuda No. 7
+Sabang, Kalimantan Utara 91628",80069,+62 (84) 421-6770
+142,142,"Gang Sukajadi No. 09
+Tasikmalaya, Kalimantan Timur 22485",47626,+62 (044) 926-9091
+143,143,"Jl. Jamika No. 807
+Purwokerto, Sulawesi Tengah 92250",59657,+62-049-882-4050
+144,144,"Jl. Bangka Raya No. 7
+Palangkaraya, NT 36366",96498,+62 (0148) 040 6086
+145,145,"Gang Cihampelas No. 654
+Madiun, SB 38030",29736,+62 (47) 030 6523
+146,146,"Gang Surapati No. 0
+Kota Administrasi Jakarta Barat, Gorontalo 76721",67642,085 958 7511
+147,147,"Gg. Gedebage Selatan No. 4
+Manado, Sulawesi Utara 09931",60825,+62 (016) 740-8047
+148,148,"Gang Rumah Sakit No. 29
+Purwokerto, MU 16753",54172,(046) 587 6493
+149,149,"Jalan Sukajadi No. 98
+Kupang, GO 94857",34491,(019) 502-9330
+150,150,"Jalan Cikapayang No. 356
+Padangpanjang, RI 96014",60175,(0204) 177-3510
+151,151,"Gang Rawamangun No. 32
+Sukabumi, KR 24937",55746,+62 (87) 740-1030
+152,152,"Gang Lembong No. 575
+Kota Administrasi Jakarta Timur, Maluku 24029",61911,(000) 074 2731
+153,153,"Gang M.H Thamrin No. 3
+Sukabumi, KS 80535",50098,+62-0218-272-9111
+154,154,"Gang Joyoboyo No. 0
+Palangkaraya, Maluku Utara 36217",69275,(048) 441 1171
+155,155,"Jl. Dr. Djunjunan No. 252
+Kediri, KB 02530",79206,082 490 8906
+156,156,"Jl. Siliwangi No. 41
+Kotamobagu, Kepulauan Riau 51516",26879,(075) 647-8203
+157,157,"Gang Siliwangi No. 520
+Malang, Jawa Timur 64353",48700,+62-040-103-6068
+158,158,"Jalan Sukabumi No. 037
+Gorontalo, Kalimantan Selatan 19527",43403,+62-046-961-5331
+159,159,"Gg. Ir. H. Djuanda No. 9
+Tomohon, SU 99766",79960,+62-19-126-7417
+160,160,"Jalan Ahmad Yani No. 65
+Bandar Lampung, KI 59733",06134,(011) 641-7003
+161,161,"Jalan Surapati No. 69
+Purwokerto, Kepulauan Bangka Belitung 70244",34409,+62 (06) 937-6668
+162,162,"Gg. Ciwastra No. 1
+Lubuklinggau, SU 72308",11175,+62-0198-287-0026
+163,163,"Jalan Ir. H. Djuanda No. 01
+Lhokseumawe, Kalimantan Utara 28518",55101,+62 (065) 117-3345
+164,164,"Jalan Rajiman No. 99
+Pangkalpinang, Lampung 45135",52123,+62 (76) 485 2247
+165,165,"Jl. Asia Afrika No. 05
+Pariaman, Jawa Timur 92600",90756,+62 (056) 753-4901
+166,166,"Jl. Cihampelas No. 017
+Pagaralam, Maluku 52899",54509,085 187 9164
+167,167,"Gang Ahmad Dahlan No. 242
+Tanjungbalai, Kepulauan Riau 31084",89664,083 246 3946
+168,168,"Gg. Suniaraja No. 759
+Sabang, ST 96424",94800,082 261 7463
+169,169,"Jalan Astana Anyar No. 9
+Tebingtinggi, Sumatera Barat 59111",48453,+62 (33) 804 1115
+170,170,"Jl. Pasir Koja No. 30
+Pangkalpinang, SG 70370",16953,(0608) 722 7617
+171,171,"Gg. Rajiman No. 568
+Solok, LA 40565",66101,+62 (593) 093-7347
+172,172,"Gang M.H Thamrin No. 43
+Tanjungpinang, KB 40686",82223,(033) 609 0416
+173,173,"Gang Medokan Ayu No. 41
+Purwokerto, Bali 97619",76665,+62 (730) 874 4716
+174,174,"Gang Pelajar Pejuang No. 29
+Pagaralam, JB 02186",34830,0843943180
+175,175,"Gg. Rawamangun No. 7
+Mataram, BB 85679",11902,(0619) 268-6908
+176,176,"Jalan Rajawali Barat No. 3
+Palopo, PA 66465",70750,+62 (0625) 680-8329
+177,177,"Gang Sukabumi No. 571
+Cimahi, JA 22286",00490,+62 (99) 494-2361
+178,178,"Gg. Dipenogoro No. 58
+Balikpapan, Kalimantan Selatan 77762",68307,+62-722-610-5846
+179,179,"Gg. Astana Anyar No. 342
+Surabaya, Sulawesi Tenggara 24790",58947,+62 (57) 071 6066
+180,180,"Gg. Cihampelas No. 62
+Manado, KT 18579",08961,+62 (86) 471 0586
+181,181,"Jalan Kutai No. 5
+Batu, SG 31535",07107,(085) 942-7235
+182,182,"Gg. Peta No. 50
+Lhokseumawe, Jambi 52591",50482,+62 (0137) 126-6708
+183,183,"Gg. Jakarta No. 884
+Bogor, BB 38215",04845,(0448) 611 2606
+184,184,"Gang Asia Afrika No. 228
+Malang, Jawa Tengah 25514",43730,+62 (006) 941 1060
+185,185,"Gang Tubagus Ismail No. 88
+Cimahi, Papua Barat 21080",19455,(094) 473 9607
+186,186,"Jl. Ahmad Dahlan No. 02
+Binjai, SN 74087",97132,(0956) 101 3841
+187,187,"Gg. Ir. H. Djuanda No. 918
+Meulaboh, KU 57361",10428,+62-31-634-0990
+188,188,"Gang PHH. Mustofa No. 18
+Pasuruan, Jambi 52549",05650,+62 (0553) 891 4099
+189,189,"Gang Veteran No. 729
+Kota Administrasi Jakarta Utara, Papua Barat 00328",90035,+62-417-669-6851
+190,190,"Gang Joyoboyo No. 244
+Pasuruan, Bali 22807",30112,+62-925-406-1486
+191,191,"Jl. Rungkut Industri No. 10
+Yogyakarta, Sulawesi Selatan 59460",01245,+62 (013) 421-7430
+192,192,"Gg. Waringin No. 3
+Tangerang Selatan, Kalimantan Tengah 68296",19687,+62-760-585-1742
+193,193,"Jl. Cikutra Timur No. 5
+Pontianak, DI Yogyakarta 61024",32851,+62 (74) 346 2120
+194,194,"Gg. Tubagus Ismail No. 46
+Makassar, BE 89753",88508,0806425758
+195,195,"Gang BKR No. 0
+Tebingtinggi, Nusa Tenggara Timur 91245",68703,+62 (086) 562-2436
+196,196,"Gg. S. Parman No. 8
+Lhokseumawe, PB 79629",47869,+62-77-500-0632
+197,197,"Jalan Rawamangun No. 335
+Samarinda, BT 20522",37366,+62 (014) 233-8145
+198,198,"Jalan HOS. Cokroaminoto No. 56
+Tasikmalaya, Sulawesi Utara 83546",09715,+62 (86) 747 0796
+199,199,"Jl. Sadang Serang No. 0
+Bukittinggi, JA 45796",87300,(085) 487-4237
+200,200,"Gang Medokan Ayu No. 559
+Banjarbaru, Banten 88269",73618,+62-0858-516-5611
+201,201,"Jalan Suniaraja No. 347
+Malang, Lampung 66528",91456,+62-078-597-2120
+202,202,"Jalan Pasteur No. 2
+Sorong, Aceh 44911",37163,+62 (0123) 248 5431
+203,203,"Gg. Sadang Serang No. 4
+Tanjungbalai, Bengkulu 00560",20016,+62-653-819-0981
+204,204,"Jl. Rumah Sakit No. 59
+Payakumbuh, Aceh 83786",32443,+62 (47) 330 6274
+205,205,"Jalan Gedebage Selatan No. 2
+Samarinda, AC 69322",24684,(000) 167-9908
+206,206,"Jalan Ahmad Dahlan No. 4
+Tebingtinggi, KT 36052",41919,(038) 642 5139
+207,207,"Jalan Dipatiukur No. 315
+Banjarmasin, Jawa Tengah 44654",03990,+62 (035) 971-0133
+208,208,"Jl. Surapati No. 96
+Tanjungbalai, Kepulauan Bangka Belitung 09523",69330,0835090893
+209,209,"Jl. Jend. A. Yani No. 8
+Jambi, Papua Barat 78772",45910,+62 (024) 144-9768
+210,210,"Gg. BKR No. 297
+Kota Administrasi Jakarta Pusat, YO 06658",06938,+62-28-569-3144
+211,211,"Jl. Bangka Raya No. 52
+Kupang, DI Yogyakarta 26745",84027,+62 (042) 494-9984
+212,212,"Gg. Ahmad Dahlan No. 3
+Pematangsiantar, SS 97996",67323,(012) 194 6297
+213,213,"Gg. Raya Ujungberung No. 814
+Kediri, Jawa Timur 09607",91531,+62-035-076-0253
+214,214,"Jalan Tebet Barat Dalam No. 018
+Gorontalo, SU 30429",31152,(0841) 210 4210
+215,215,"Gang Rungkut Industri No. 086
+Tangerang, KS 10206",08596,0876236175
+216,216,"Gang Antapani Lama No. 5
+Palopo, SU 82209",42512,(0815) 437 1965
+217,217,"Jl. Ahmad Yani No. 038
+Banjar, Kepulauan Bangka Belitung 78773",13948,+62 (0589) 567-9556
+218,218,"Jalan Rumah Sakit No. 559
+Bukittinggi, SU 79303",31780,+62-915-251-0749
+219,219,"Gang Rajawali Barat No. 4
+Tangerang, SR 58216",39916,(0081) 974 9103
+220,220,"Jl. Laswi No. 447
+Kota Administrasi Jakarta Pusat, Nusa Tenggara Barat 70624",43211,+62 (520) 352 9326
+221,221,"Gg. Rungkut Industri No. 101
+Tomohon, AC 66282",45784,+62 (46) 793-9511
+222,222,"Gg. Stasiun Wonokromo No. 3
+Pagaralam, Sumatera Barat 31148",96063,(0562) 218 7055
+223,223,"Gg. Sentot Alibasa No. 73
+Bima, JK 37128",89779,080 689 3723
+224,224,"Jl. HOS. Cokroaminoto No. 590
+Kota Administrasi Jakarta Pusat, AC 60302",59173,+62 (527) 512-4999
+225,225,"Gg. Jend. A. Yani No. 0
+Pekanbaru, Bali 27296",72721,0807138398
+226,226,"Gg. Jamika No. 65
+Kupang, MU 96500",15428,+62-20-368-9705
+227,227,"Gg. Cempaka No. 99
+Bengkulu, Papua 67975",65737,+62 (624) 375 3135
+228,228,"Jalan Cempaka No. 397
+Kupang, Nusa Tenggara Barat 15190",70995,(042) 634 3284
+229,229,"Jl. Peta No. 85
+Ambon, MA 18894",17995,+62 (532) 051 0731
+230,230,"Gg. Dipatiukur No. 1
+Pekanbaru, BT 96818",82242,(004) 936 3992
+231,231,"Jl. Rajiman No. 7
+Surakarta, MA 46082",02562,+62 (0763) 462-3655
+232,232,"Gang Erlangga No. 24
+Mojokerto, NB 48125",12788,(055) 935 1228
+233,233,"Jalan Rungkut Industri No. 21
+Mataram, JA 00392",99767,(029) 541-6614
+234,234,"Jalan Jend. A. Yani No. 2
+Payakumbuh, Kalimantan Barat 99606",15271,+62 (048) 384-1122
+235,235,"Jalan Indragiri No. 8
+Tual, Sumatera Selatan 17351",11045,+62-295-460-1627
+236,236,"Jalan M.H Thamrin No. 9
+Magelang, KT 99805",23902,+62 (831) 756-8843
+237,237,"Jl. PHH. Mustofa No. 719
+Ambon, Sulawesi Selatan 45047",77279,+62 (0168) 139-1351
+238,238,"Jalan Suryakencana No. 680
+Madiun, SS 01094",29957,+62 (040) 257-2246
+239,239,"Gg. Jend. Sudirman No. 81
+Makassar, Jawa Timur 11310",79641,+62 (0750) 608 9663
+240,240,"Gg. Ciwastra No. 99
+Bogor, Kalimantan Barat 61528",42738,+62-083-533-0248
+241,241,"Jalan Stasiun Wonokromo No. 103
+Banjar, LA 92894",05433,+62 (29) 336-2390
+242,242,"Gang Gardujati No. 587
+Meulaboh, SN 50795",14171,+62-0613-994-4863
+243,243,"Gg. K.H. Wahid Hasyim No. 633
+Jambi, Papua Barat 58072",94958,(0324) 493 1496
+244,244,"Gg. Pelajar Pejuang No. 42
+Surabaya, SS 00430",39528,+62 (55) 851 1060
+245,245,"Jalan Suniaraja No. 94
+Jayapura, MU 23425",55201,+62 (074) 838 6028
+246,246,"Jalan Astana Anyar No. 0
+Sukabumi, SG 02579",66717,(0075) 587-0095
+247,247,"Jalan Tubagus Ismail No. 63
+Pematangsiantar, GO 35798",79185,+62-0016-892-9157
+248,248,"Gg. Kebonjati No. 7
+Kupang, Bali 67022",25541,(072) 502 4330
+249,249,"Gg. Ahmad Yani No. 2
+Probolinggo, Papua 11914",09896,+62 (731) 548-3192
+250,250,"Gang Cikutra Timur No. 3
+Cilegon, Jawa Tengah 57687",32436,+62 (007) 311 1490
+251,251,"Jalan Cikutra Timur No. 1
+Makassar, PB 03053",94709,+62-35-722-9938
+252,252,"Jl. Pasirkoja No. 131
+Bau-Bau, JB 44844",10149,+62-049-109-8624
+253,253,"Jalan Jamika No. 762
+Blitar, KR 33791",16696,+62 (744) 942-3411
+254,254,"Jalan KH Amin Jasuta No. 771
+Bandar Lampung, Sulawesi Selatan 01370",00342,+62-0136-772-7299
+255,255,"Gang Abdul Muis No. 182
+Ambon, Lampung 48539",57604,+62 (095) 598 9255
+256,256,"Gang Rungkut Industri No. 184
+Bandar Lampung, SN 90554",02553,(072) 208 8454
+257,257,"Gg. Gardujati No. 21
+Mojokerto, Sulawesi Selatan 82215",82956,082 199 5691
+258,258,"Gang Rawamangun No. 016
+Jambi, SG 08225",57247,+62 (17) 929 2963
+259,259,"Jalan Rajawali Barat No. 83
+Solok, Kalimantan Selatan 08653",48016,+62 (0316) 507 9713
+260,260,"Jl. Rajawali Timur No. 0
+Bitung, Aceh 54606",99699,+62-0246-677-5792
+261,261,"Gg. Lembong No. 155
+Surabaya, BB 32071",78494,+62 (69) 060 8132
+262,262,"Gang M.T Haryono No. 9
+Blitar, AC 38097",40791,(0014) 984 9535
+263,263,"Jalan M.H Thamrin No. 0
+Palembang, GO 70426",88776,+62-090-829-0144
+264,264,"Jl. Kapten Muslihat No. 8
+Sibolga, PA 32187",76935,+62 (885) 626-3460
+265,265,"Gg. Ahmad Dahlan No. 1
+Dumai, SG 82881",94664,+62 (0376) 658-3623
+266,266,"Jalan Cihampelas No. 9
+Purwokerto, JK 01631",07128,+62 (825) 733 1466
+267,267,"Jalan BKR No. 5
+Batam, JK 64563",53540,+62-059-776-3866
+268,268,"Gg. Ahmad Dahlan No. 27
+Bontang, GO 72449",92339,+62 (001) 552 2460
+269,269,"Jl. KH Amin Jasuta No. 7
+Binjai, SR 62104",56240,(043) 426 1780
+270,270,"Gg. Sentot Alibasa No. 9
+Bitung, Lampung 20902",43086,+62 (0071) 627 0015
+271,271,"Gg. Otto Iskandardinata No. 87
+Manado, JK 60520",64095,(0185) 058-8969
+272,272,"Jalan M.H Thamrin No. 354
+Pangkalpinang, Sulawesi Barat 70905",22028,0813586963
+273,273,"Gang Pasirkoja No. 9
+Banda Aceh, MU 82030",03755,+62 (902) 136-8751
+274,274,"Gg. Rajiman No. 6
+Semarang, JI 06675",61922,+62 (002) 716-5607
+275,275,"Gg. Kebonjati No. 452
+Jambi, BA 26977",78559,+62-95-767-7440
+276,276,"Jalan Moch. Ramdan No. 806
+Singkawang, Jambi 75207",79218,+62 (48) 304-3022
+277,277,"Gang Cikapayang No. 38
+Kotamobagu, Sulawesi Selatan 64892",54499,+62 (0375) 003 1935
+278,278,"Gang Peta No. 06
+Lhokseumawe, Papua Barat 95356",63562,(078) 343-9391
+279,279,"Gang Otto Iskandardinata No. 1
+Tebingtinggi, JI 43046",91128,+62 (193) 078 9639
+280,280,"Gg. Gardujati No. 920
+Kediri, Sulawesi Tenggara 44937",95563,+62 (04) 749 3214
+281,281,"Gg. Merdeka No. 818
+Tanjungbalai, Kalimantan Barat 68293",18132,(0566) 168 7380
+282,282,"Gg. Jamika No. 1
+Medan, KR 70919",78680,+62 (0365) 129-6623
+283,283,"Gg. Dr. Djunjunan No. 776
+Sabang, Aceh 83485",77565,+62-251-103-4007
+284,284,"Gg. Kutisari Selatan No. 951
+Prabumulih, Banten 96618",29255,+62 (525) 265-7956
+285,285,"Gang K.H. Wahid Hasyim No. 9
+Bau-Bau, Sulawesi Utara 15355",01717,+62 (722) 093-3164
+286,286,"Jl. Ciumbuleuit No. 2
+Ambon, Sumatera Utara 23775",22318,080 005 6968
+287,287,"Jalan Jayawijaya No. 104
+Tanjungbalai, Sumatera Selatan 09738",16163,+62 (091) 324-1965
+288,288,"Gang Bangka Raya No. 154
+Bontang, NT 52403",99100,(043) 126 6509
+289,289,"Gang Ir. H. Djuanda No. 51
+Binjai, ST 02265",05588,+62 (0495) 926 8774
+290,290,"Gg. Tubagus Ismail No. 5
+Kendari, Nusa Tenggara Timur 74996",37874,+62 (0225) 205 4122
+291,291,"Jl. Cikutra Timur No. 7
+Ternate, Papua Barat 77921",46896,+62 (011) 381-2837
+292,292,"Jalan Tebet Barat Dalam No. 492
+Tanjungpinang, Sulawesi Utara 74258",95902,0847257365
+293,293,"Gang Monginsidi No. 425
+Solok, Sulawesi Utara 38450",23829,+62 (075) 395 5594
+294,294,"Jalan K.H. Wahid Hasyim No. 1
+Yogyakarta, Nusa Tenggara Timur 46754",15190,0823421873
+295,295,"Jalan Pasteur No. 48
+Kota Administrasi Jakarta Barat, Sulawesi Utara 37532",94124,+62 (98) 502-6831
+296,296,"Gg. Rajawali Barat No. 2
+Dumai, KU 62623",59850,+62 (0790) 195 1164
+297,297,"Gang PHH. Mustofa No. 49
+Kupang, YO 95566",46908,+62-027-064-1532
+298,298,"Gang Cikutra Barat No. 094
+Sabang, Jawa Tengah 16548",45058,(0175) 555 9117
+299,299,"Jalan Kutai No. 3
+Tanjungbalai, RI 39699",46906,+62-81-776-2346
+300,300,"Gg. Pasteur No. 67
+Malang, RI 89772",98157,+62 (029) 700 1074
+301,301,"Jalan Sentot Alibasa No. 2
+Payakumbuh, SN 27341",79828,+62 (52) 594-6904
+302,302,"Jalan R.E Martadinata No. 99
+Kendari, NB 51760",57742,+62 (000) 279 4059
+303,303,"Gg. Medokan Ayu No. 1
+Bitung, NT 15602",69150,+62 (0044) 115-1794
+304,304,"Gang Cihampelas No. 25
+Dumai, Sulawesi Tenggara 44772",63499,+62-072-104-4370
+305,305,"Gg. BKR No. 6
+Bandar Lampung, SB 38586",47732,(0601) 604-0092
+306,306,"Jalan Veteran No. 8
+Bandar Lampung, DKI Jakarta 19831",24587,+62 (0059) 670 1931
+307,307,"Gang Rumah Sakit No. 266
+Padangpanjang, Kalimantan Selatan 36718",28254,0860536706
+308,308,"Gang M.H Thamrin No. 25
+Cimahi, JB 27753",94423,+62 (91) 790 4718
+309,309,"Gang Ir. H. Djuanda No. 8
+Bukittinggi, BA 30130",20857,+62-476-274-6966
+310,310,"Jl. Pacuan Kuda No. 121
+Kota Administrasi Jakarta Timur, SR 92682",42132,(065) 423-9316
+311,311,"Jl. Sukabumi No. 18
+Pangkalpinang, Jawa Timur 60875",52206,+62 (040) 785-6755
+312,312,"Gg. BKR No. 323
+Bekasi, Jawa Barat 19526",35467,+62 (752) 501-7892
+313,313,"Jalan Dipatiukur No. 09
+Bandar Lampung, GO 90862",89157,+62 (664) 255-5848
+314,314,"Gg. Waringin No. 7
+Probolinggo, Sumatera Selatan 71029",70027,+62 (057) 668-0181
+315,315,"Jl. Monginsidi No. 957
+Tasikmalaya, SS 29293",76681,+62 (284) 400-6718
+316,316,"Jalan Rumah Sakit No. 357
+Pontianak, Riau 07359",91085,+62-0920-264-1947
+317,317,"Gg. Ahmad Yani No. 257
+Palu, DI Yogyakarta 82819",54673,+62-0978-456-7513
+318,318,"Gg. Lembong No. 59
+Bau-Bau, ST 44606",20474,+62-0783-486-2729
+319,319,"Gang Ronggowarsito No. 8
+Bengkulu, LA 49020",41944,(0216) 215-8666
+320,320,"Gang M.T Haryono No. 77
+Langsa, SB 12494",63122,+62-095-858-3754
+321,321,"Jl. Asia Afrika No. 4
+Tasikmalaya, Kalimantan Tengah 42698",80474,+62 (381) 006-6919
+322,322,"Gg. Laswi No. 60
+Bandar Lampung, Maluku Utara 76217",55112,+62 (065) 943-0228
+323,323,"Jalan Soekarno Hatta No. 7
+Sorong, Jawa Barat 72716",47396,+62 (074) 022 1262
+324,324,"Jl. Rajawali Barat No. 208
+Tanjungbalai, Maluku 57505",67246,(0675) 078 3197
+325,325,"Gang Gegerkalong Hilir No. 29
+Makassar, NB 12784",69468,+62 (203) 753-6143
+326,326,"Jalan M.H Thamrin No. 83
+Bengkulu, PA 09713",86028,+62 (0457) 377 8517
+327,327,"Jl. Rajawali Barat No. 1
+Subulussalam, Sulawesi Selatan 76628",78708,087 791 6768
+328,328,"Jalan Erlangga No. 1
+Probolinggo, SR 41745",77269,+62 (88) 149-5657
+329,329,"Jalan Laswi No. 4
+Tomohon, KR 28577",87441,(047) 052 4941
+330,330,"Gang Cikutra Barat No. 8
+Tual, Sulawesi Utara 51794",02542,+62-0148-434-9581
+331,331,"Gg. Kapten Muslihat No. 12
+Metro, Jambi 16629",60368,+62 (094) 523 8424
+332,332,"Gang Ronggowarsito No. 96
+Padangpanjang, KI 55944",11699,(0521) 214-2970
+333,333,"Jl. Pasir Koja No. 53
+Pekanbaru, KB 49646",29892,+62-87-804-7976
+334,334,"Jalan K.H. Wahid Hasyim No. 88
+Padang Sidempuan, BE 20625",73730,(0456) 346 7888
+335,335,"Gang Dipatiukur No. 84
+Mataram, Kepulauan Bangka Belitung 25646",75663,+62 (337) 885 3815
+336,336,"Jalan Dipatiukur No. 701
+Sungai Penuh, RI 73935",69497,(0906) 319-3875
+337,337,"Gang Dr. Djunjunan No. 9
+Ambon, SG 56657",15239,+62-17-970-4222
+338,338,"Gang Indragiri No. 6
+Tomohon, SU 10812",10004,+62-89-350-1896
+339,339,"Jalan Veteran No. 14
+Padang Sidempuan, Maluku Utara 10579",16617,+62 (0189) 191 5904
+340,340,"Jl. Lembong No. 9
+Meulaboh, Lampung 00947",37349,(0059) 676-7828
+341,341,"Gg. Joyoboyo No. 522
+Palopo, Maluku 96092",24676,(0682) 914-9109
+342,342,"Gg. Rawamangun No. 9
+Tidore Kepulauan, Banten 88008",63147,+62 (0568) 155-7182
+343,343,"Gang Wonoayu No. 8
+Malang, Jawa Barat 61242",43029,+62 (408) 409 5004
+344,344,"Gg. Rajawali Timur No. 177
+Jambi, KS 82256",73547,+62 (99) 621 5367
+345,345,"Gg. Kapten Muslihat No. 16
+Salatiga, Bengkulu 41085",63438,+62-060-442-8991
+346,346,"Jl. Dipenogoro No. 179
+Bogor, Kalimantan Barat 13928",81762,(008) 358 6368
+347,347,"Jalan Dr. Djunjunan No. 2
+Cilegon, DI Yogyakarta 86658",44590,+62 (043) 036-5731
+348,348,"Gang Raya Setiabudhi No. 34
+Bima, Kalimantan Selatan 04561",59239,(065) 139-3995
+349,349,"Jalan Raya Setiabudhi No. 491
+Lhokseumawe, KT 39792",08197,+62 (859) 597 9006
+350,350,"Gang W.R. Supratman No. 906
+Depok, Gorontalo 63270",23215,+62 (97) 340-6452
+351,351,"Jl. Jayawijaya No. 818
+Palopo, MA 64326",99462,(0625) 743 1039
+352,352,"Gg. Merdeka No. 0
+Banjarmasin, AC 94797",45917,(083) 948 2045
+353,353,"Jl. Surapati No. 937
+Kota Administrasi Jakarta Utara, Nusa Tenggara Barat 92327",17592,+62 (007) 670 7844
+354,354,"Jl. KH Amin Jasuta No. 907
+Padang Sidempuan, KB 50721",26063,+62 (069) 959 0074
+355,355,"Gg. Pasir Koja No. 74
+Banda Aceh, GO 83635",43677,+62 (0561) 475-1659
+356,356,"Gang Joyoboyo No. 2
+Dumai, AC 10340",50906,(0274) 171 4354
+357,357,"Jl. Yos Sudarso No. 46
+Mojokerto, SB 70893",41887,(0104) 615-2304
+358,358,"Gg. Ir. H. Djuanda No. 967
+Jambi, Sulawesi Selatan 07280",01724,(0350) 927 3179
+359,359,"Gg. Kebonjati No. 545
+Serang, Sulawesi Barat 23192",26630,+62 (11) 993-0310
+360,360,"Gg. Moch. Ramdan No. 98
+Bitung, Aceh 89632",83391,+62 (590) 518-2160
+361,361,"Jalan Soekarno Hatta No. 26
+Bengkulu, SU 51662",26087,+62 (098) 526-8191
+362,362,"Gg. Ahmad Dahlan No. 80
+Pontianak, KR 13867",14266,+62 (038) 337-2400
+363,363,"Jalan Ciwastra No. 78
+Binjai, JT 57212",33083,+62-0943-350-2254
+364,364,"Jl. Joyoboyo No. 80
+Tebingtinggi, KB 22438",04868,0827858376
+365,365,"Jalan Dipatiukur No. 4
+Kendari, JT 86843",71672,+62-291-085-4475
+366,366,"Gang Setiabudhi No. 7
+Pagaralam, Sulawesi Tengah 78244",55397,(0733) 298 2034
+367,367,"Jl. Merdeka No. 8
+Kota Administrasi Jakarta Barat, Papua 84913",29325,+62 (62) 290 3002
+368,368,"Jl. Pasirkoja No. 24
+Bandar Lampung, Kalimantan Barat 88568",32214,+62-0526-900-9316
+369,369,"Jl. M.H Thamrin No. 4
+Salatiga, Maluku 66123",89640,+62 (213) 325 3767
+370,370,"Gg. S. Parman No. 097
+Surabaya, SN 05630",58694,+62 (23) 714 4410
+371,371,"Gang Cikapayang No. 0
+Yogyakarta, LA 18356",39025,+62 (913) 953-5039
+372,372,"Gang Waringin No. 68
+Subulussalam, JB 03430",98690,+62 (0828) 855-5261
+373,373,"Gg. Ahmad Dahlan No. 82
+Tangerang Selatan, Jawa Barat 56293",33702,(0029) 790 0633
+374,374,"Gg. Gedebage Selatan No. 086
+Banjarmasin, NB 93825",56433,+62-41-729-7731
+375,375,"Jalan Wonoayu No. 03
+Surakarta, Sumatera Barat 43664",90903,+62-093-023-9909
+376,376,"Gang Jend. A. Yani No. 06
+Cilegon, Kalimantan Tengah 31461",87750,+62 (0634) 452 9342
+377,377,"Jl. R.E Martadinata No. 49
+Metro, BT 05463",77910,+62 (095) 102 8135
+378,378,"Jalan Raya Ujungberung No. 5
+Tual, SU 55098",01642,(0449) 253 0638
+379,379,"Gg. Rajiman No. 48
+Pekalongan, KU 90262",50587,+62 (080) 017-4425
+380,380,"Gang HOS. Cokroaminoto No. 33
+Pariaman, Sulawesi Barat 90208",40452,+62 (0352) 182 1674
+381,381,"Jalan Rajawali Timur No. 16
+Ambon, Sumatera Barat 42481",02018,+62 (0158) 254 4286
+382,382,"Gg. Tebet Barat Dalam No. 1
+Kediri, PA 20324",38723,+62 (052) 562-0010
+383,383,"Jl. Moch. Ramdan No. 8
+Meulaboh, Jawa Timur 66031",69991,+62 (63) 914 8027
+384,384,"Jl. Jakarta No. 01
+Pangkalpinang, JI 04936",76515,084 261 9347
+385,385,"Gang H.J Maemunah No. 8
+Tidore Kepulauan, JB 64507",63022,+62 (036) 074 8015
+386,386,"Gang Jakarta No. 44
+Tegal, Maluku 70769",29890,(085) 489-3877
+387,387,"Gang Monginsidi No. 4
+Tasikmalaya, Maluku 40677",37679,+62 (54) 456 8436
+388,388,"Jalan Erlangga No. 8
+Bitung, LA 30073",70190,(041) 952-4176
+389,389,"Gg. KH Amin Jasuta No. 53
+Sorong, Sulawesi Utara 66762",53158,(017) 161 7557
+390,390,"Jalan Kendalsari No. 7
+Bengkulu, SU 63082",46215,+62 (0158) 855 7576
+391,391,"Gang Monginsidi No. 7
+Dumai, Kalimantan Selatan 13015",89739,(0769) 587-0389
+392,392,"Jalan Rajawali Barat No. 65
+Magelang, KI 89396",01406,+62 (091) 284 5076
+393,393,"Gang Stasiun Wonokromo No. 834
+Sorong, JT 38738",30168,0853825382
+394,394,"Gang Waringin No. 280
+Kota Administrasi Jakarta Timur, Kalimantan Selatan 44233",20341,+62 (002) 636-8930
+395,395,"Jalan Pasirkoja No. 266
+Cirebon, Gorontalo 04760",25085,086 145 9238
+396,396,"Jl. Kutisari Selatan No. 74
+Prabumulih, NT 97896",03296,+62 (0416) 292 8248
+397,397,"Jalan Cihampelas No. 816
+Tanjungpinang, Jambi 47032",51294,(0589) 205 5112
+398,398,"Gg. Ir. H. Djuanda No. 383
+Cimahi, SU 18797",23730,(0089) 006-5680
+399,399,"Gang Kebonjati No. 30
+Semarang, Banten 29401",72832,+62-0964-060-5775
+400,400,"Gang Gegerkalong Hilir No. 086
+Bogor, Kalimantan Utara 22753",56227,+62 (194) 417 7462
+401,401,"Jalan Jakarta No. 371
+Bima, KS 84176",26184,+62 (0538) 830-2923
+402,402,"Jalan Pelajar Pejuang No. 3
+Tebingtinggi, KI 18878",25474,(054) 986-6411
+403,403,"Gang Cihampelas No. 6
+Bima, Sumatera Selatan 46273",27357,+62 (009) 189 6960
+404,404,"Jalan Cikapayang No. 9
+Meulaboh, JT 92740",69410,(022) 492-6095
+405,405,"Jalan H.J Maemunah No. 79
+Bandung, Papua 39274",60668,(015) 669 3641
+406,406,"Gg. KH Amin Jasuta No. 44
+Padang, Gorontalo 61773",94243,(0519) 378-4081
+407,407,"Jl. Rajawali Timur No. 13
+Pasuruan, JA 63250",87891,+62-220-460-2242
+408,408,"Jl. Sadang Serang No. 905
+Tarakan, Sulawesi Selatan 93392",09388,+62 (057) 331-5857
+409,409,"Jl. Jend. Sudirman No. 780
+Jambi, Papua 04440",16444,+62 (83) 322 8661
+410,410,"Jalan Rumah Sakit No. 580
+Surabaya, SS 99117",95732,(0997) 469-4785
+411,411,"Jalan Tebet Barat Dalam No. 01
+Pasuruan, KT 58699",40942,0807484291
+412,412,"Gang Kapten Muslihat No. 282
+Kotamobagu, JI 79134",01549,+62 (029) 679-4917
+413,413,"Gg. Setiabudhi No. 95
+Tomohon, Kepulauan Bangka Belitung 83552",94703,(0233) 678 9829
+414,414,"Jalan Ciumbuleuit No. 99
+Batu, Kepulauan Riau 89864",46980,+62-016-377-3808
+415,415,"Gang Abdul Muis No. 67
+Bontang, KT 53938",62816,+62 (09) 829 8218
+416,416,"Gg. Rajawali Barat No. 03
+Ambon, Bengkulu 71779",49001,+62 (85) 129-8503
+417,417,"Gg. Ciumbuleuit No. 495
+Lubuklinggau, Lampung 74935",49765,+62 (429) 273 4933
+418,418,"Gang K.H. Wahid Hasyim No. 6
+Ternate, SR 12241",27634,(023) 086-0183
+419,419,"Jalan S. Parman No. 36
+Dumai, SU 97582",54755,(0526) 166-0013
+420,420,"Gang Pacuan Kuda No. 54
+Depok, Jawa Timur 25489",58529,085 605 2588
+421,421,"Gang HOS. Cokroaminoto No. 5
+Bukittinggi, BB 39442",17473,+62-576-296-4562
+422,422,"Gg. M.H Thamrin No. 6
+Pematangsiantar, KU 33878",28275,+62 (037) 576 5188
+423,423,"Gang K.H. Wahid Hasyim No. 34
+Surakarta, Sulawesi Tenggara 20078",05742,(0269) 476-2976
+424,424,"Gang Ahmad Yani No. 769
+Bontang, Maluku Utara 06141",15967,(0149) 935-4632
+425,425,"Gg. PHH. Mustofa No. 3
+Mojokerto, KU 36893",13992,+62 (461) 547 3538
+426,426,"Gg. Moch. Ramdan No. 623
+Pangkalpinang, PB 56163",95448,(0516) 186 0988
+427,427,"Jalan Rajiman No. 4
+Bitung, KU 48430",13225,+62-09-353-0921
+428,428,"Jl. Pasteur No. 3
+Pontianak, JT 81010",43296,(0627) 951-3742
+429,429,"Jl. PHH. Mustofa No. 121
+Bandar Lampung, MU 18209",10833,+62 (083) 671 9187
+430,430,"Jalan Erlangga No. 9
+Ternate, SU 09114",46276,(0267) 148 0616
+431,431,"Gang Cempaka No. 91
+Banjarbaru, RI 35747",82135,0897155525
+432,432,"Gg. Jamika No. 085
+Tanjungpinang, Kepulauan Bangka Belitung 26767",95022,+62-0319-073-2930
+433,433,"Gang M.T Haryono No. 4
+Mojokerto, SU 92553",80942,(046) 344 2727
+434,434,"Jl. Gardujati No. 653
+Kota Administrasi Jakarta Selatan, JB 96534",46222,+62 (0233) 668-4939
+435,435,"Gg. Sukabumi No. 87
+Bau-Bau, SR 43125",61183,084 619 9543
+436,436,"Jalan M.T Haryono No. 116
+Kota Administrasi Jakarta Pusat, Sulawesi Tengah 28528",02412,+62 (442) 717-2950
+437,437,"Gg. Antapani Lama No. 6
+Palu, MA 19064",45104,+62 (0552) 840 5038
+438,438,"Jl. Ir. H. Djuanda No. 424
+Kotamobagu, Bengkulu 70447",38992,+62 (046) 342-0995
+439,439,"Jalan Cikutra Barat No. 12
+Banda Aceh, YO 84959",40417,+62 (85) 811 2357
+440,440,"Gg. Pelajar Pejuang No. 20
+Mataram, JB 36794",35896,+62 (051) 272-2876
+441,441,"Jalan Cihampelas No. 759
+Tanjungpinang, PB 01950",29343,087 688 9247
+442,442,"Gg. Jayawijaya No. 006
+Lhokseumawe, SU 07764",19551,+62 (0293) 072 4513
+443,443,"Jalan HOS. Cokroaminoto No. 317
+Palu, Nusa Tenggara Barat 01891",23679,+62 (0491) 961-0516
+444,444,"Gg. Ronggowarsito No. 1
+Kota Administrasi Jakarta Timur, Papua 72759",78250,089 504 0516
+445,445,"Gg. Ronggowarsito No. 424
+Pekanbaru, Riau 65958",57671,+62-066-967-5147
+446,446,"Jalan Kebonjati No. 9
+Semarang, Sulawesi Selatan 76839",25988,(070) 477-6837
+447,447,"Jalan Wonoayu No. 82
+Dumai, NT 93383",60671,0889897390
+448,448,"Jalan Wonoayu No. 97
+Tomohon, Kepulauan Bangka Belitung 66551",06236,(0810) 855 0551
+449,449,"Gg. Veteran No. 7
+Banjar, JB 29882",04371,+62 (704) 534 9685
+450,450,"Jl. M.T Haryono No. 1
+Samarinda, JA 12328",37087,+62 (671) 508 8285
+451,451,"Jl. Dipatiukur No. 19
+Manado, MU 36098",53043,+62-61-163-0655
+452,452,"Gg. Kutisari Selatan No. 36
+Tanjungbalai, Banten 27319",93553,+62-026-680-9361
+453,453,"Jalan Moch. Ramdan No. 565
+Banda Aceh, KB 77711",36672,0812215005
+454,454,"Jl. Gardujati No. 5
+Kota Administrasi Jakarta Timur, Banten 12432",97693,+62 (0500) 685-1023
+455,455,"Jalan S. Parman No. 3
+Kota Administrasi Jakarta Timur, BT 94528",55959,+62 (031) 161 9643
+456,456,"Jalan Waringin No. 69
+Pariaman, SU 45547",64170,+62 (69) 503-8092
+457,457,"Jl. Veteran No. 1
+Ternate, Kalimantan Timur 23574",45333,(0942) 904-4813
+458,458,"Jalan Rumah Sakit No. 787
+Sorong, Gorontalo 87649",80508,+62 (046) 776 6706
+459,459,"Jalan Soekarno Hatta No. 100
+Kendari, JK 80039",40886,(0769) 381 0652
+460,460,"Gang Abdul Muis No. 256
+Padang Sidempuan, Banten 49407",17726,+62-152-051-6727
+461,461,"Gg. Ahmad Yani No. 729
+Bekasi, Kalimantan Selatan 27810",08294,(009) 518 2424
+462,462,"Jl. Jayawijaya No. 5
+Tangerang Selatan, Maluku Utara 77757",31022,+62-922-999-0729
+463,463,"Gg. Monginsidi No. 159
+Pagaralam, LA 76970",87215,+62-041-509-0932
+464,464,"Jl. Yos Sudarso No. 013
+Bandar Lampung, ST 43417",73755,+62 (084) 349 0560
+465,465,"Gang Merdeka No. 94
+Kotamobagu, DKI Jakarta 40554",95832,+62 (632) 805 7198
+466,466,"Gg. Antapani Lama No. 72
+Sukabumi, NT 74846",33257,+62 (0646) 881-7256
+467,467,"Jl. Setiabudhi No. 8
+Pariaman, Nusa Tenggara Timur 22154",17418,+62 (692) 516 0709
+468,468,"Gg. M.T Haryono No. 76
+Tebingtinggi, Gorontalo 55980",74378,+62 (045) 759-9229
+469,469,"Gg. Jayawijaya No. 0
+Jambi, Kalimantan Barat 02258",18900,(074) 038 9651
+470,470,"Jl. Sukabumi No. 33
+Cilegon, Sulawesi Tenggara 91635",34885,+62-75-364-7335
+471,471,"Gg. M.T Haryono No. 15
+Jayapura, SU 62745",50567,+62-036-168-3058
+472,472,"Jl. Gegerkalong Hilir No. 9
+Gorontalo, MU 38587",66088,085 110 0027
+473,473,"Gang Indragiri No. 55
+Tangerang, SS 53611",22569,+62 (012) 458-6401
+474,474,"Jl. Kapten Muslihat No. 03
+Gorontalo, KU 35382",07232,(047) 298 0900
+475,475,"Gang Erlangga No. 955
+Jambi, KT 55980",79590,+62 (033) 456-1768
+476,476,"Gg. Peta No. 047
+Tarakan, AC 57895",29757,+62-092-931-3939
+477,477,"Gang Joyoboyo No. 872
+Cirebon, SU 52558",35886,+62 (0803) 837-9437
+478,478,"Gang Cihampelas No. 2
+Bandar Lampung, GO 38231",84746,+62 (54) 329-7195
+479,479,"Jalan Veteran No. 21
+Pagaralam, LA 25479",73312,+62 (040) 520-6842
+480,480,"Jl. M.H Thamrin No. 4
+Pematangsiantar, PB 87787",98230,+62 (43) 048 3110
+481,481,"Jalan Laswi No. 20
+Padang Sidempuan, Nusa Tenggara Barat 10163",63733,+62 (002) 013 3174
+482,482,"Gg. Indragiri No. 563
+Tangerang, Jawa Barat 97554",71034,+62 (401) 891-7365
+483,483,"Jalan Wonoayu No. 645
+Malang, SS 31477",04473,+62 (073) 252 8051
+484,484,"Gg. Medokan Ayu No. 83
+Mojokerto, Sumatera Selatan 06629",45237,+62 (009) 110-2564
+485,485,"Gg. Wonoayu No. 102
+Banjarmasin, LA 35714",38136,+62 (20) 575 4286
+486,486,"Gg. Gegerkalong Hilir No. 61
+Tangerang, Papua Barat 30469",93499,(0267) 060-6200
+487,487,"Jl. Rungkut Industri No. 12
+Tangerang Selatan, Bali 37375",97442,0839245859
+488,488,"Jalan Jamika No. 017
+Jambi, Banten 44200",97836,(0768) 170 8090
+489,489,"Gg. Ahmad Dahlan No. 127
+Banjarmasin, JT 05337",17750,(012) 229 2290
+490,490,"Gg. Soekarno Hatta No. 986
+Bandar Lampung, Maluku Utara 24360",47710,+62 (002) 065-3029
+491,491,"Gg. KH Amin Jasuta No. 5
+Palu, JA 56928",43706,+62-009-853-6520
+492,492,"Gang Sukajadi No. 9
+Padang, MA 14204",96352,087 614 3731
+493,493,"Jalan Kendalsari No. 7
+Medan, JI 90494",71115,(027) 678-0431
+494,494,"Gang BKR No. 985
+Tidore Kepulauan, Kalimantan Tengah 13594",42343,(054) 775 1661
+495,495,"Gang Waringin No. 173
+Surabaya, NB 41776",28642,+62 (728) 340-7674
+496,496,"Gang Kutai No. 6
+Blitar, NT 81691",98496,(0293) 941-3128
+497,497,"Gang Tubagus Ismail No. 526
+Sorong, Sumatera Selatan 66197",15133,+62 (0690) 962 7302
+498,498,"Jl. HOS. Cokroaminoto No. 628
+Surakarta, Riau 94524",84398,084 153 0258
+499,499,"Gg. Rajiman No. 97
+Bekasi, SU 89973",69796,+62 (80) 250 7939
+500,500,"Gang Dipatiukur No. 0
+Lhokseumawe, Jambi 48533",22823,(0165) 285 7297
+501,501,"Gang Jayawijaya No. 5
+Subulussalam, ST 77306",94105,+62 (27) 967-6841
+502,502,"Jl. Pasir Koja No. 379
+Pasuruan, Kalimantan Tengah 08761",44445,+62 (939) 823-7341
+503,503,"Jl. Setiabudhi No. 491
+Dumai, PB 25128",28087,+62 (14) 937 9500
+504,504,"Gg. Gardujati No. 024
+Cilegon, SU 83412",72056,+62 (827) 764 6031
+505,505,"Jl. Soekarno Hatta No. 867
+Tangerang, Sulawesi Tenggara 88666",40241,0817781446
+506,506,"Gang Pasteur No. 941
+Purwokerto, PB 32956",93770,+62-0795-346-7407
+507,507,"Gang Antapani Lama No. 7
+Dumai, Papua Barat 28419",03420,+62-040-889-0421
+508,508,"Gg. Jend. Sudirman No. 367
+Serang, Maluku Utara 82457",95099,+62-060-767-1153
+509,509,"Gg. Ir. H. Djuanda No. 509
+Bau-Bau, LA 48091",18696,(032) 406-9515
+510,510,"Jalan Gardujati No. 17
+Bima, PA 07189",57826,+62 (984) 114 0250
+511,511,"Gang Lembong No. 19
+Bekasi, Kalimantan Barat 62683",62469,+62 (48) 386 4454
+512,512,"Gg. Cikapayang No. 238
+Bogor, Maluku Utara 54234",94070,(067) 778-5637
+513,513,"Jl. Pelajar Pejuang No. 276
+Parepare, Maluku Utara 90403",48547,+62 (023) 673 3259
+514,514,"Jalan Monginsidi No. 7
+Kediri, DI Yogyakarta 68828",52974,(099) 993 0851
+515,515,"Gg. Jend. A. Yani No. 246
+Mojokerto, MU 35406",33338,(0214) 965 4760
+516,516,"Jl. Cikutra Barat No. 093
+Meulaboh, Sulawesi Tengah 93088",44627,+62 (716) 209-3362
+517,517,"Jalan Cempaka No. 19
+Gorontalo, DKI Jakarta 46828",12382,+62-99-379-9096
+518,518,"Jl. Rumah Sakit No. 98
+Kota Administrasi Jakarta Selatan, KI 87423",78170,(0925) 757 3456
+519,519,"Jl. Joyoboyo No. 533
+Lhokseumawe, BT 04419",60811,+62 (22) 117 2045
+520,520,"Jalan Tubagus Ismail No. 436
+Yogyakarta, Nusa Tenggara Barat 67452",94039,(0907) 424-8365
+521,521,"Jalan Moch. Toha No. 839
+Kendari, Nusa Tenggara Timur 86818",53105,+62 (64) 583 6865
+522,522,"Gg. Rumah Sakit No. 50
+Bima, Jawa Timur 97205",27789,+62-0531-408-3707
+523,523,"Jl. Cikutra Barat No. 18
+Probolinggo, Sulawesi Tenggara 89355",36676,+62-0867-369-5659
+524,524,"Gang Cikutra Barat No. 420
+Lhokseumawe, Kepulauan Bangka Belitung 89722",11056,(0193) 890 3866
+525,525,"Gang Raya Ujungberung No. 7
+Pekanbaru, SU 46565",88872,+62-0983-761-7456
+526,526,"Gang Ir. H. Djuanda No. 72
+Purwokerto, Jawa Timur 49691",48026,+62-04-536-9824
+527,527,"Gang Dipenogoro No. 349
+Bukittinggi, GO 20354",08088,(021) 971 2134
+528,528,"Jl. Rumah Sakit No. 317
+Bitung, JI 08543",18851,+62 (33) 879 8171
+529,529,"Jalan Pelajar Pejuang No. 9
+Singkawang, Papua Barat 11434",88962,+62-0209-304-2957
+530,530,"Gang Ronggowarsito No. 837
+Kendari, Jambi 85274",04308,+62 (0852) 911 8175
+531,531,"Jl. Astana Anyar No. 07
+Tanjungbalai, Kalimantan Tengah 63721",95867,+62-93-230-1229
+532,532,"Jalan Jakarta No. 2
+Mojokerto, Kalimantan Barat 64062",69945,+62 (0445) 391-7295
+533,533,"Gg. Abdul Muis No. 8
+Blitar, Maluku Utara 21506",15841,+62-067-976-4484
+534,534,"Jl. Kutai No. 826
+Jayapura, Jawa Barat 23679",42469,(0766) 716-8908
+535,535,"Jalan Siliwangi No. 961
+Malang, SU 96929",21832,+62 (0784) 143 4088
+536,536,"Gang KH Amin Jasuta No. 342
+Pontianak, DI Yogyakarta 68330",20912,+62 (48) 780 2686
+537,537,"Gg. KH Amin Jasuta No. 401
+Samarinda, NT 31734",31373,+62 (038) 242 9559
+538,538,"Jalan W.R. Supratman No. 1
+Manado, JB 81395",15002,+62 (057) 457 0849
+539,539,"Jl. Moch. Ramdan No. 44
+Bukittinggi, KT 05188",79077,+62 (036) 469-5005
+540,540,"Jl. Suryakencana No. 6
+Banjarmasin, Maluku Utara 34650",95011,+62-0991-367-4657
+541,541,"Gg. Dr. Djunjunan No. 446
+Sabang, KT 50234",65881,+62 (0277) 221-7032
+542,542,"Jalan Setiabudhi No. 6
+Bogor, Jawa Barat 25484",86429,0895010959
+543,543,"Gg. H.J Maemunah No. 29
+Sungai Penuh, GO 53304",05650,+62-957-979-9631
+544,544,"Jalan Dipatiukur No. 89
+Tasikmalaya, YO 07569",39387,(043) 319-3542
+545,545,"Jalan KH Amin Jasuta No. 622
+Kotamobagu, Lampung 96357",89251,+62-12-928-4134
+546,546,"Gang Ronggowarsito No. 860
+Pekalongan, MA 10347",13367,+62-007-216-1402
+547,547,"Gang Rajiman No. 5
+Solok, NT 09087",48047,087 372 3813
+548,548,"Gang Moch. Ramdan No. 37
+Tarakan, RI 60173",43000,+62 (0047) 515-3560
+549,549,"Jl. Pasir Koja No. 59
+Mataram, Sulawesi Utara 46436",19497,+62-995-104-8170
+550,550,"Jalan Pelajar Pejuang No. 881
+Pontianak, PB 37176",75915,(0594) 040-1567
+551,551,"Gg. Kapten Muslihat No. 2
+Palangkaraya, Sulawesi Tenggara 07989",52475,+62 (69) 693 4003
+552,552,"Gang Cikutra Barat No. 84
+Tegal, SU 71016",84420,(076) 382-5813
+553,553,"Jl. Cempaka No. 14
+Malang, KI 80577",04294,081 395 4542
+554,554,"Gg. Indragiri No. 271
+Lhokseumawe, JB 25784",01070,+62 (926) 386-5609
+555,555,"Jalan K.H. Wahid Hasyim No. 2
+Mataram, Bengkulu 32618",62546,0821387580
+556,556,"Gg. Ahmad Dahlan No. 1
+Sabang, Gorontalo 45844",03313,+62 (0300) 825 8205
+557,557,"Jl. Veteran No. 0
+Subulussalam, Bengkulu 55557",07488,089 563 0458
+558,558,"Gang Erlangga No. 0
+Payakumbuh, BB 91416",01918,(021) 127 2509
+559,559,"Jl. Jayawijaya No. 11
+Balikpapan, RI 90586",25352,(088) 087-5784
+560,560,"Gang Ciumbuleuit No. 72
+Pekanbaru, GO 42624",10176,+62 (0093) 564-9632
+561,561,"Gg. Moch. Ramdan No. 101
+Bandung, GO 94684",75147,+62 (886) 430-2703
+562,562,"Gg. Tebet Barat Dalam No. 328
+Bau-Bau, MU 70194",43907,+62-098-239-8510
+563,563,"Jl. Kebonjati No. 32
+Tual, DI Yogyakarta 97468",83601,+62 (0886) 546-7843
+564,564,"Jalan Otto Iskandardinata No. 257
+Palangkaraya, DI Yogyakarta 02054",42819,(0713) 490 2889
+565,565,"Jl. Tebet Barat Dalam No. 67
+Palembang, BB 38283",38079,+62 (391) 100-0317
+566,566,"Gang K.H. Wahid Hasyim No. 0
+Samarinda, LA 63520",05822,(099) 270-2011
+567,567,"Jl. Jamika No. 045
+Batu, SU 99578",57059,(042) 698-5375
+568,568,"Gg. Jend. Sudirman No. 515
+Bontang, JK 43678",36360,+62 (028) 184 9100
+569,569,"Jl. Sentot Alibasa No. 26
+Banjar, BE 15949",03563,+62-79-962-3260
+570,570,"Jl. K.H. Wahid Hasyim No. 50
+Samarinda, JA 19589",62541,(0572) 321 4806
+571,571,"Gg. Cikutra Barat No. 9
+Pekanbaru, Sulawesi Barat 43591",96694,+62 (383) 247 4193
+572,572,"Gg. Setiabudhi No. 1
+Pekanbaru, ST 34323",04909,+62-55-530-9048
+573,573,"Gg. Jamika No. 55
+Ambon, Jambi 52618",15062,+62-02-981-5770
+574,574,"Jalan Ciumbuleuit No. 288
+Yogyakarta, Jambi 67316",95980,(0527) 858-2731
+575,575,"Gang Wonoayu No. 517
+Sorong, Jambi 75524",10185,+62 (63) 554-9793
+576,576,"Jalan Jend. Sudirman No. 607
+Batam, KU 55224",22055,+62-678-082-1375
+577,577,"Jalan Pasirkoja No. 76
+Yogyakarta, SN 41756",01408,+62 (715) 646 9751
+578,578,"Gg. Pasteur No. 754
+Pekanbaru, KR 24406",30538,(0782) 859-2666
+579,579,"Gang Antapani Lama No. 715
+Magelang, Papua 24130",96024,+62 (0860) 634 7462
+580,580,"Gg. R.E Martadinata No. 671
+Pagaralam, MU 53169",17054,(059) 204 4379
+581,581,"Gg. Indragiri No. 0
+Tomohon, PA 00594",47966,+62 (084) 952-4465
+582,582,"Jalan Cikapayang No. 023
+Palembang, KR 43381",69106,(0838) 306 0345
+583,583,"Jalan M.T Haryono No. 5
+Sibolga, KI 55090",48027,+62-0122-604-5291
+584,584,"Gg. Moch. Ramdan No. 8
+Ambon, JB 48701",49688,+62 (099) 477-2294
+585,585,"Gang Waringin No. 18
+Medan, Nusa Tenggara Timur 08410",08742,+62-625-265-7330
+586,586,"Jalan Jayawijaya No. 9
+Binjai, AC 98053",53327,+62 (29) 556 1944
+587,587,"Gg. Ahmad Dahlan No. 42
+Palu, NB 89345",75347,+62 (192) 060 3378
+588,588,"Jl. Rajawali Timur No. 7
+Jambi, Kalimantan Utara 03875",38769,(097) 949 2038
+589,589,"Gang Joyoboyo No. 13
+Cilegon, Bengkulu 31449",30300,(0910) 811 2623
+590,590,"Jalan Dipenogoro No. 3
+Dumai, Kalimantan Timur 54605",50676,+62-646-260-8356
+591,591,"Gg. Siliwangi No. 265
+Yogyakarta, GO 41550",35892,+62-006-744-7241
+592,592,"Gg. Kapten Muslihat No. 0
+Pematangsiantar, BA 75464",39122,+62-098-687-1202
+593,593,"Gang Laswi No. 5
+Kota Administrasi Jakarta Barat, Gorontalo 75104",23612,(088) 400 3890
+594,594,"Gg. Otto Iskandardinata No. 7
+Sabang, KU 07688",34629,080 082 4587
+595,595,"Jl. Kendalsari No. 11
+Malang, Kalimantan Selatan 03369",45442,(0725) 833 1837
+596,596,"Jl. Astana Anyar No. 893
+Banjar, SN 94236",58605,+62-824-923-6149
+597,597,"Gg. Tebet Barat Dalam No. 3
+Dumai, JI 95962",73842,+62 (32) 524 6518
+598,598,"Jl. Jamika No. 76
+Pangkalpinang, Aceh 45795",48106,(0614) 049-8272
+599,599,"Jalan Lembong No. 73
+Langsa, NT 33151",41970,+62-59-957-6989
+600,600,"Jalan Kutisari Selatan No. 10
+Sukabumi, LA 58544",16136,+62 (051) 639-8621
+601,601,"Gang Kebonjati No. 58
+Kendari, SU 65267",28412,(0303) 264 8061
+602,602,"Gg. Laswi No. 3
+Bima, PB 40560",03138,(041) 283-4500
+603,603,"Jl. Pasteur No. 553
+Tebingtinggi, Kalimantan Utara 73392",11706,+62 (044) 246-4559
+604,604,"Gang Wonoayu No. 937
+Kota Administrasi Jakarta Utara, Sumatera Barat 27106",68360,+62-510-041-9352
+605,605,"Jl. Pasir Koja No. 593
+Tidore Kepulauan, Sumatera Selatan 75203",80861,(0044) 659 9796
+606,606,"Jl. Pacuan Kuda No. 235
+Ternate, PA 87637",87108,+62-0516-382-2668
+607,607,"Gg. W.R. Supratman No. 2
+Kota Administrasi Jakarta Barat, JI 34380",50180,+62 (05) 194-4483
+608,608,"Gg. Wonoayu No. 31
+Purwokerto, JI 23322",80345,+62 (520) 763-1509
+609,609,"Gang Pasir Koja No. 2
+Dumai, Sulawesi Tengah 73433",00466,+62 (0663) 088 9578
+610,610,"Jl. Yos Sudarso No. 80
+Mojokerto, SS 77093",88304,+62 (0865) 752 7056
+611,611,"Jl. Asia Afrika No. 83
+Jayapura, KR 18785",30114,+62 (73) 263 6702
+612,612,"Jl. Sadang Serang No. 4
+Sorong, Kepulauan Riau 41091",68353,080 475 4971
+613,613,"Gang Rajawali Timur No. 94
+Balikpapan, PA 83329",52714,+62 (165) 460 0939
+614,614,"Gg. Dr. Djunjunan No. 47
+Palu, Maluku 41020",59615,+62 (21) 844 0976
+615,615,"Gang Cikutra Barat No. 305
+Tangerang, Sulawesi Selatan 34912",68944,0809473118
+616,616,"Gg. Jend. Sudirman No. 98
+Bontang, Aceh 81855",33175,+62-67-947-4533
+617,617,"Jalan Jend. Sudirman No. 72
+Parepare, GO 19242",72732,+62 (025) 483 8228
+618,618,"Jalan BKR No. 896
+Cirebon, Maluku 37291",38572,+62 (093) 122 7659
+619,619,"Jalan Erlangga No. 865
+Langsa, Sulawesi Utara 40088",61421,(095) 992-6560
+620,620,"Jalan Otto Iskandardinata No. 450
+Sabang, RI 62444",91313,+62 (085) 836 6575
+621,621,"Jl. Yos Sudarso No. 43
+Makassar, JK 71935",99594,+62 (045) 893 1760
+622,622,"Gg. Laswi No. 4
+Bandar Lampung, Jawa Barat 46662",16387,+62 (053) 653 2601
+623,623,"Jalan Pasir Koja No. 1
+Kupang, YO 28377",35665,+62 (0954) 463-3322
+624,624,"Gang Raya Setiabudhi No. 80
+Tangerang Selatan, SB 91861",28774,+62-0534-685-9338
+625,625,"Gg. Soekarno Hatta No. 325
+Metro, Sulawesi Tenggara 02497",63103,(0568) 523 7317
+626,626,"Jl. Laswi No. 609
+Serang, Nusa Tenggara Barat 25148",99740,+62 (659) 578 7188
+627,627,"Gg. Veteran No. 438
+Padang Sidempuan, AC 04061",39438,+62-036-591-1357
+628,628,"Jalan Ahmad Dahlan No. 2
+Ambon, Aceh 47283",61359,+62-13-448-8346
+629,629,"Jalan K.H. Wahid Hasyim No. 325
+Denpasar, Gorontalo 95331",49643,+62 (014) 323-3863
+630,630,"Gang K.H. Wahid Hasyim No. 30
+Cilegon, Kalimantan Tengah 28241",00065,(0640) 870-6897
+631,631,"Gg. Cikapayang No. 802
+Tangerang Selatan, AC 83306",94341,+62 (092) 803-3044
+632,632,"Jl. Kiaracondong No. 95
+Kota Administrasi Jakarta Selatan, SR 57182",62357,+62-116-358-8312
+633,633,"Jl. Cikapayang No. 856
+Lhokseumawe, MU 97624",03166,+62 (034) 239 0237
+634,634,"Gang Siliwangi No. 61
+Surakarta, Banten 76110",41262,(0400) 439-9177
+635,635,"Jalan Merdeka No. 26
+Cilegon, Nusa Tenggara Timur 92145",80396,+62-034-559-7378
+636,636,"Jalan Kebonjati No. 19
+Tegal, Nusa Tenggara Timur 10351",46624,+62-48-747-5589
+637,637,"Gang Bangka Raya No. 046
+Pekalongan, KI 96232",20706,+62 (950) 678-2107
+638,638,"Jl. Moch. Ramdan No. 748
+Bontang, JT 58431",88848,(049) 826-3503
+639,639,"Gang Jamika No. 07
+Bogor, Kalimantan Barat 92973",06458,+62 (0097) 507 7355
+640,640,"Jalan Yos Sudarso No. 110
+Meulaboh, JK 90791",41481,+62 (069) 067-8323
+641,641,"Jl. Ahmad Yani No. 8
+Jambi, Kepulauan Riau 33827",32342,+62-030-320-6491
+642,642,"Gg. Kebonjati No. 383
+Tangerang Selatan, Sulawesi Tenggara 73513",49565,+62 (0810) 823 9609
+643,643,"Jl. Surapati No. 4
+Pekalongan, JA 67684",17785,+62 (0910) 614-7464
+644,644,"Jalan Jamika No. 05
+Bontang, Kalimantan Selatan 45439",39649,+62 (0248) 855-4254
+645,645,"Jalan HOS. Cokroaminoto No. 8
+Pontianak, Sumatera Utara 21829",58202,+62-0524-025-5845
+646,646,"Jl. Merdeka No. 455
+Bontang, Bali 65028",09138,+62 (0482) 384-6405
+647,647,"Gang Monginsidi No. 9
+Banjarmasin, JT 42196",04396,+62 (092) 361 4310
+648,648,"Gang Kutai No. 6
+Samarinda, KT 03476",27503,+62-0279-959-5338
+649,649,"Gg. S. Parman No. 8
+Pematangsiantar, Jambi 00886",31042,0842783156
+650,650,"Jalan Kapten Muslihat No. 2
+Gorontalo, RI 91571",79849,+62 (594) 018-7201
+651,651,"Gang Kebonjati No. 98
+Tanjungbalai, Kepulauan Bangka Belitung 91889",56606,0824058515
+652,652,"Gg. Ahmad Dahlan No. 90
+Tomohon, SG 08379",76676,+62-0458-855-4859
+653,653,"Gg. HOS. Cokroaminoto No. 3
+Cimahi, MU 31623",45412,(001) 325-5198
+654,654,"Jl. Gegerkalong Hilir No. 763
+Gorontalo, KI 59036",84869,(0345) 497-2997
+655,655,"Jl. Medokan Ayu No. 564
+Kendari, DI Yogyakarta 39641",62798,(057) 991 0549
+656,656,"Jl. KH Amin Jasuta No. 25
+Kediri, MA 88495",47701,(0391) 229 1137
+657,657,"Jalan Pasirkoja No. 719
+Denpasar, AC 13034",44757,(0829) 750-5796
+658,658,"Jl. Ahmad Yani No. 84
+Pematangsiantar, SS 81316",79900,+62 (37) 223 3976
+659,659,"Gang Sadang Serang No. 452
+Cilegon, SR 05771",79759,0898890630
+660,660,"Jl. Astana Anyar No. 912
+Banjar, MA 96528",89275,+62 (0367) 210-4106
+661,661,"Gang Cikapayang No. 10
+Pasuruan, SU 50873",46594,+62 (064) 485 5269
+662,662,"Gang Setiabudhi No. 524
+Lubuklinggau, SG 31718",96554,(0517) 473-2905
+663,663,"Gang Rawamangun No. 957
+Pariaman, SS 51003",79663,0848842631
+664,664,"Gg. Gedebage Selatan No. 6
+Pagaralam, Jawa Barat 78922",09737,+62-978-528-8242
+665,665,"Jl. Rajawali Barat No. 828
+Purwokerto, JK 09391",85532,+62 (0718) 783-2465
+666,666,"Jl. Rumah Sakit No. 079
+Gorontalo, GO 42960",13479,+62-065-776-6955
+667,667,"Gg. PHH. Mustofa No. 54
+Kota Administrasi Jakarta Pusat, JB 23189",50043,+62 (98) 453-5494
+668,668,"Jalan Rajiman No. 49
+Kota Administrasi Jakarta Selatan, Kalimantan Selatan 53976",94315,0852783045
+669,669,"Jl. Ir. H. Djuanda No. 1
+Mataram, JK 52461",17731,+62 (661) 661 6970
+670,670,"Jalan Bangka Raya No. 680
+Palangkaraya, BB 10328",49476,080 554 4542
+671,671,"Gang Ahmad Dahlan No. 3
+Sibolga, BT 50324",67909,(012) 876-5632
+672,672,"Gg. Ronggowarsito No. 05
+Malang, KR 77156",88119,+62-10-041-2953
+673,673,"Jalan M.H Thamrin No. 7
+Batu, RI 68401",29950,+62 (0028) 926-0070
+674,674,"Gang W.R. Supratman No. 19
+Palangkaraya, Jambi 74804",60066,+62-25-901-3186
+675,675,"Gg. Veteran No. 760
+Tidore Kepulauan, MU 36021",48240,+62 (077) 708 9334
+676,676,"Jalan Ciwastra No. 98
+Binjai, Nusa Tenggara Barat 75635",15358,+62-095-322-7236
+677,677,"Gg. Cikutra Timur No. 50
+Mojokerto, SG 11288",19730,(0229) 285-4906
+678,678,"Gang Sukabumi No. 934
+Pasuruan, KU 97152",16163,(0501) 965-2661
+679,679,"Gg. Sukajadi No. 19
+Ternate, Kepulauan Bangka Belitung 81942",64288,087 805 9082
+680,680,"Jalan Waringin No. 834
+Magelang, ST 98412",18538,+62-083-199-0687
+681,681,"Jalan Ahmad Dahlan No. 6
+Kotamobagu, SU 58551",95680,+62-019-592-1341
+682,682,"Jalan Rajawali Barat No. 106
+Blitar, GO 64137",86819,+62-93-110-8484
+683,683,"Jl. Kiaracondong No. 1
+Yogyakarta, Nusa Tenggara Barat 10183",95598,+62 (005) 318 7385
+684,684,"Jl. Gardujati No. 8
+Bogor, SS 74521",92488,+62-96-308-4030
+685,685,"Jalan Pasir Koja No. 14
+Purwokerto, Papua 83086",99837,+62 (657) 520 9882
+686,686,"Jalan Yos Sudarso No. 54
+Gorontalo, BB 38982",61908,+62-870-443-6535
+687,687,"Gang Rungkut Industri No. 660
+Cimahi, Sulawesi Selatan 82000",45469,(036) 229-3094
+688,688,"Gang K.H. Wahid Hasyim No. 150
+Kupang, Sulawesi Tenggara 50582",97450,+62-0397-702-9802
+689,689,"Jl. Kapten Muslihat No. 213
+Palopo, Sumatera Barat 42775",41744,+62 (0978) 333-1928
+690,690,"Gg. Sukabumi No. 2
+Malang, Sulawesi Barat 75911",85324,+62-018-814-7554
+691,691,"Jalan Cihampelas No. 1
+Tebingtinggi, JB 82231",96186,081 429 3877
+692,692,"Gg. Yos Sudarso No. 8
+Banjar, Sumatera Selatan 67074",53558,0873345586
+693,693,"Gang Gegerkalong Hilir No. 5
+Tangerang Selatan, KT 05080",73802,(056) 706 4867
+694,694,"Jalan Jakarta No. 586
+Banjarmasin, BT 87333",09246,(0910) 386 2428
+695,695,"Gang R.E Martadinata No. 30
+Kota Administrasi Jakarta Selatan, DI Yogyakarta 38304",47339,080 573 0714
+696,696,"Jalan Waringin No. 06
+Palembang, BB 01248",03120,+62 (267) 686-1656
+697,697,"Gg. S. Parman No. 125
+Metro, MU 20613",08717,0881215732
+698,698,"Jalan Suryakencana No. 305
+Pagaralam, JT 00368",22747,+62 (0234) 179 6748
+699,699,"Jl. Cikapayang No. 064
+Manado, Lampung 55357",04684,+62 (81) 892-6851
+700,700,"Jl. Cihampelas No. 9
+Cilegon, BA 61594",39710,+62 (035) 358 0042
+701,701,"Jalan Otto Iskandardinata No. 03
+Pagaralam, Lampung 26305",60949,086 565 8136
+702,702,"Gg. Ciwastra No. 67
+Sukabumi, Bali 88467",41514,+62 (85) 788-4424
+703,703,"Jalan M.T Haryono No. 3
+Palangkaraya, Sulawesi Selatan 85308",05526,+62 (40) 368 4036
+704,704,"Gang Laswi No. 3
+Cimahi, Sumatera Utara 02081",36086,+62 (99) 826 6349
+705,705,"Gang Raya Setiabudhi No. 0
+Probolinggo, DI Yogyakarta 71762",30268,(030) 658-7363
+706,706,"Jalan Wonoayu No. 456
+Kupang, Kalimantan Utara 12350",70842,(0485) 725 2950
+707,707,"Gg. Peta No. 07
+Padangpanjang, Nusa Tenggara Barat 13686",19370,+62 (97) 731-4361
+708,708,"Gang Surapati No. 436
+Tangerang Selatan, Sulawesi Utara 24870",55212,+62 (0048) 555-9062
+709,709,"Jalan Peta No. 1
+Kota Administrasi Jakarta Timur, MU 59668",62381,080 967 1071
+710,710,"Jl. Wonoayu No. 216
+Batam, JB 88475",76257,+62 (098) 211-3540
+711,711,"Jl. Soekarno Hatta No. 451
+Tanjungbalai, Jawa Tengah 68046",55171,(0249) 708-1822
+712,712,"Gang Pasteur No. 1
+Cilegon, Jawa Timur 31523",24440,(0681) 922-8566
+713,713,"Jalan Surapati No. 64
+Sabang, Jambi 98724",01704,+62 (30) 447 7585
+714,714,"Jalan Kutisari Selatan No. 28
+Bukittinggi, KT 19065",46181,+62 (10) 938 5685
+715,715,"Jalan Astana Anyar No. 504
+Mojokerto, KU 54409",42949,+62-56-435-5220
+716,716,"Gang Gegerkalong Hilir No. 17
+Tangerang Selatan, Nusa Tenggara Barat 20813",62602,+62 (0369) 656-9505
+717,717,"Jalan Antapani Lama No. 1
+Palu, NB 83077",78911,(0162) 416 6310
+718,718,"Gang Yos Sudarso No. 276
+Banjarbaru, Kalimantan Timur 93578",43974,+62-088-328-3812
+719,719,"Gg. Gardujati No. 4
+Tidore Kepulauan, Kalimantan Selatan 60195",54816,+62-0630-104-1683
+720,720,"Gg. Jamika No. 17
+Kota Administrasi Jakarta Pusat, SG 55620",98715,+62 (039) 724 6053
+721,721,"Gg. Rajawali Barat No. 190
+Tomohon, SB 94160",55320,+62-049-490-7864
+722,722,"Gang BKR No. 5
+Kendari, Sumatera Barat 46985",19759,+62 (256) 005-2332
+723,723,"Gang Rajawali Barat No. 83
+Batu, YO 51333",15979,+62 (085) 701 6577
+724,724,"Gg. M.H Thamrin No. 6
+Tanjungbalai, Papua Barat 55990",05570,+62 (0497) 871 2898
+725,725,"Gg. Laswi No. 37
+Blitar, Maluku Utara 40130",66525,(072) 359 1772
+726,726,"Gg. Pasteur No. 08
+Bau-Bau, YO 37838",49627,(026) 156 4352
+727,727,"Gang Tebet Barat Dalam No. 435
+Sungai Penuh, Banten 27174",32664,+62 (064) 764-6520
+728,728,"Gg. Pasir Koja No. 415
+Serang, Gorontalo 02706",18780,+62 (05) 416-7010
+729,729,"Gang BKR No. 1
+Kota Administrasi Jakarta Selatan, BT 30434",91397,+62-068-227-7811
+730,730,"Jalan Sukabumi No. 79
+Madiun, PA 06527",37024,+62-0715-666-5946
+731,731,"Jalan Tubagus Ismail No. 422
+Balikpapan, BT 81901",71008,+62-0910-379-3904
+732,732,"Jalan Veteran No. 46
+Palu, KT 66797",05152,082 384 5884
+733,733,"Jalan Joyoboyo No. 678
+Bengkulu, Sumatera Utara 83960",07589,080 173 6102
+734,734,"Jalan R.E Martadinata No. 68
+Padang, MU 48760",72698,+62 (65) 112 7356
+735,735,"Gang Jakarta No. 51
+Palangkaraya, KT 58023",07648,+62-044-225-2730
+736,736,"Gg. Ciwastra No. 339
+Banjarbaru, BB 16851",95862,+62 (856) 257 6759
+737,737,"Jalan Laswi No. 446
+Surabaya, PA 14941",52274,+62 (057) 978-7801
+738,738,"Jalan Sadang Serang No. 7
+Tangerang, MA 91138",46233,+62 (0084) 638-7318
+739,739,"Gang Ahmad Yani No. 4
+Padangpanjang, ST 18773",70075,+62 (87) 099 0113
+740,740,"Jl. KH Amin Jasuta No. 339
+Kendari, Riau 99669",76674,+62 (03) 258-6922
+741,741,"Jl. Merdeka No. 0
+Singkawang, Kepulauan Riau 58639",39509,+62 (077) 728-8068
+742,742,"Gang Peta No. 3
+Pekalongan, Sumatera Barat 15358",07754,+62-420-601-1499
+743,743,"Gang Jend. Sudirman No. 495
+Bekasi, Sumatera Selatan 25384",33199,+62-915-074-3985
+744,744,"Gang Peta No. 88
+Meulaboh, Maluku 71520",74296,+62 (0208) 561 6703
+745,745,"Jalan Ahmad Yani No. 41
+Tanjungpinang, SS 16116",23230,+62-0444-310-0976
+746,746,"Jalan H.J Maemunah No. 4
+Medan, Jawa Tengah 28113",58881,+62 (086) 758-6811
+747,747,"Gang Waringin No. 432
+Jambi, MU 40660",28270,0887329926
+748,748,"Jl. Suniaraja No. 0
+Padangpanjang, Kepulauan Bangka Belitung 85508",38518,088 168 7632
+749,749,"Jalan Rumah Sakit No. 658
+Bima, SR 09740",68016,088 436 8735
+750,750,"Jl. Pasteur No. 8
+Banda Aceh, MU 37621",37033,0879223393
+751,751,"Gang Lembong No. 008
+Padang, DI Yogyakarta 22884",59279,088 783 5650
+752,752,"Jalan Raya Ujungberung No. 07
+Blitar, SU 38299",96743,+62 (0465) 970-1707
+753,753,"Gang Siliwangi No. 48
+Kediri, DI Yogyakarta 79134",05550,(073) 219-3163
+754,754,"Gang K.H. Wahid Hasyim No. 74
+Prabumulih, MA 40116",15334,+62 (06) 377 9006
+755,755,"Gg. Raya Setiabudhi No. 24
+Pontianak, BA 12006",56294,(0945) 431-9327
+756,756,"Jl. Raya Ujungberung No. 7
+Palangkaraya, Bali 06395",77994,081 233 6638
+757,757,"Gang Gedebage Selatan No. 1
+Pagaralam, Kalimantan Timur 28228",73571,+62-0871-974-9479
+758,758,"Gg. Jakarta No. 428
+Purwokerto, MA 52939",98027,+62 (863) 095-3340
+759,759,"Jl. Kapten Muslihat No. 2
+Bekasi, Kalimantan Utara 36123",81997,+62 (0375) 232 4138
+760,760,"Jalan Peta No. 46
+Banjarmasin, Nusa Tenggara Barat 73687",36626,+62 (078) 461-7373
+761,761,"Gang Jayawijaya No. 0
+Banjarmasin, JK 74293",84614,+62-091-755-2692
+762,762,"Gg. Waringin No. 144
+Semarang, KI 83801",45555,+62-097-903-5010
+763,763,"Jalan Pasteur No. 6
+Blitar, Sulawesi Utara 16650",27318,+62 (18) 428 1735
+764,764,"Gang Gedebage Selatan No. 381
+Gorontalo, Sulawesi Barat 68563",52076,+62 (006) 357 5750
+765,765,"Gg. Rajawali Barat No. 81
+Depok, KR 34083",44419,+62-0027-473-0835
+766,766,"Gg. Jayawijaya No. 348
+Malang, DKI Jakarta 89489",18841,+62 (287) 888 9728
+767,767,"Gang Indragiri No. 618
+Tanjungpinang, Kalimantan Utara 22290",37265,081 196 5060
+768,768,"Gang Wonoayu No. 968
+Tanjungbalai, KU 18772",60326,+62 (0298) 699 9567
+769,769,"Jl. Pasir Koja No. 07
+Dumai, GO 51024",90420,+62-0163-447-2280
+770,770,"Gang Asia Afrika No. 6
+Tomohon, BT 29843",40710,(0428) 633 3027
+771,771,"Jalan Ciwastra No. 441
+Kota Administrasi Jakarta Pusat, KU 12367",05724,+62 (03) 113 8330
+772,772,"Gg. Raya Ujungberung No. 5
+Pasuruan, SN 04607",10251,+62-221-533-6456
+773,773,"Gang Sukabumi No. 8
+Jambi, Sulawesi Tenggara 65468",08549,+62 (80) 717-4129
+774,774,"Gg. Medokan Ayu No. 4
+Bengkulu, YO 26033",19115,+62-089-929-4867
+775,775,"Gang Tubagus Ismail No. 917
+Kotamobagu, SS 11436",12292,+62 (45) 448 0214
+776,776,"Jl. Sentot Alibasa No. 19
+Surabaya, Sulawesi Selatan 06265",21537,0836254559
+777,777,"Gang Siliwangi No. 1
+Ternate, SU 85125",23201,+62-729-859-6567
+778,778,"Gg. Stasiun Wonokromo No. 35
+Balikpapan, YO 07276",14265,(091) 156-3254
+779,779,"Gang Otto Iskandardinata No. 13
+Tarakan, MU 12667",08172,(092) 559 6685
+780,780,"Gg. Pasirkoja No. 813
+Sungai Penuh, LA 62235",25044,+62 (749) 243-6414
+781,781,"Jl. Kutai No. 7
+Denpasar, Sumatera Barat 55804",81412,+62-938-636-4756
+782,782,"Jl. Rungkut Industri No. 1
+Lhokseumawe, Sulawesi Barat 54164",54253,+62-61-323-8113
+783,783,"Jalan Cempaka No. 975
+Meulaboh, SS 52164",15537,+62 (087) 189-5855
+784,784,"Jl. Dipenogoro No. 49
+Pekanbaru, YO 50797",36425,086 116 2000
+785,785,"Gang Moch. Ramdan No. 56
+Parepare, Kalimantan Tengah 12680",44848,+62-553-594-2701
+786,786,"Gang Kutisari Selatan No. 145
+Medan, Nusa Tenggara Timur 41194",10951,+62 (0784) 876 8056
+787,787,"Jalan Antapani Lama No. 802
+Probolinggo, NB 09905",88467,(041) 605 4835
+788,788,"Jalan Antapani Lama No. 1
+Bitung, DI Yogyakarta 92127",88776,+62 (092) 585 9947
+789,789,"Gg. K.H. Wahid Hasyim No. 373
+Blitar, BE 19031",73751,(0657) 487-1780
+790,790,"Jalan Dr. Djunjunan No. 31
+Cilegon, Sulawesi Utara 64005",52737,+62 (674) 300-0838
+791,791,"Jalan Rajawali Barat No. 6
+Parepare, SU 03171",52156,(0927) 960 6978
+792,792,"Gg. Dipenogoro No. 3
+Pariaman, YO 69233",06530,+62 (997) 602 6619
+793,793,"Gang HOS. Cokroaminoto No. 87
+Probolinggo, Kalimantan Barat 13186",78331,+62-0641-385-5914
+794,794,"Jl. K.H. Wahid Hasyim No. 82
+Batam, Kalimantan Utara 81195",11600,+62 (37) 988 6862
+795,795,"Gang Abdul Muis No. 5
+Palembang, SN 06156",77359,0844051378
+796,796,"Gang Dipenogoro No. 62
+Bau-Bau, Bengkulu 09916",30200,+62 (0013) 741 8382
+797,797,"Jl. Tebet Barat Dalam No. 61
+Probolinggo, Bali 59399",94206,+62 (974) 235-1757
+798,798,"Jalan Sadang Serang No. 5
+Pagaralam, Riau 55776",11558,+62 (0450) 332-4825
+799,799,"Gang Jamika No. 88
+Bengkulu, Nusa Tenggara Barat 43009",65319,+62-0535-572-2244
+800,800,"Gang Indragiri No. 163
+Tanjungbalai, Jawa Tengah 49696",14504,(0453) 569-1855
+801,801,"Jl. Antapani Lama No. 0
+Palu, SR 62827",59010,(059) 663 1360
+802,802,"Gang Rajawali Timur No. 67
+Yogyakarta, Sulawesi Tengah 63906",47151,+62 (003) 151 9061
+803,803,"Jl. PHH. Mustofa No. 038
+Gorontalo, NT 81369",39807,+62 (71) 680-9664
+804,804,"Jl. Sukajadi No. 153
+Tasikmalaya, KU 25005",68906,+62 (105) 784 8860
+805,805,"Gg. Pasteur No. 2
+Sawahlunto, KU 16949",02001,+62 (58) 701-6535
+806,806,"Jl. H.J Maemunah No. 5
+Pontianak, Papua Barat 95812",02509,+62-0379-404-7835
+807,807,"Gang Soekarno Hatta No. 9
+Bogor, Banten 12013",30869,+62 (913) 052-8426
+808,808,"Gg. Cihampelas No. 870
+Tasikmalaya, SB 11459",27850,+62 (78) 252 2655
+809,809,"Jalan Ahmad Yani No. 87
+Payakumbuh, KT 30107",36093,+62-789-719-1542
+810,810,"Jl. S. Parman No. 6
+Metro, Sulawesi Utara 86620",25705,(026) 742 7666
+811,811,"Gang Dr. Djunjunan No. 9
+Kota Administrasi Jakarta Selatan, MA 90572",85988,088 914 5970
+812,812,"Jl. Antapani Lama No. 352
+Surakarta, BB 44109",12651,+62-615-387-8452
+813,813,"Jl. Sentot Alibasa No. 099
+Tebingtinggi, Jawa Barat 50788",85872,0805102616
+814,814,"Gg. Indragiri No. 143
+Banda Aceh, PB 70945",45924,(0650) 917 8526
+815,815,"Gg. Sentot Alibasa No. 667
+Denpasar, PA 91994",06409,+62 (048) 674-7474
+816,816,"Gang Cihampelas No. 61
+Ambon, BB 95748",97057,+62 (0258) 827-5013
+817,817,"Gang PHH. Mustofa No. 785
+Prabumulih, Riau 93082",78576,+62 (0545) 140 4879
+818,818,"Jl. S. Parman No. 9
+Probolinggo, JA 12300",68080,(079) 892 9199
+819,819,"Jalan Asia Afrika No. 7
+Tangerang, KS 60862",19385,+62 (0973) 814 8775
+820,820,"Gang Rajawali Barat No. 29
+Bukittinggi, BB 44089",29747,(0216) 606 5018
+821,821,"Gang Ciwastra No. 619
+Kota Administrasi Jakarta Utara, PB 50809",20130,+62 (63) 368 7456
+822,822,"Jalan Ahmad Dahlan No. 3
+Parepare, Kalimantan Barat 34436",22244,(098) 472-4378
+823,823,"Jl. Moch. Ramdan No. 71
+Mataram, Nusa Tenggara Timur 41556",30323,+62 (601) 048 6436
+824,824,"Gg. Rungkut Industri No. 4
+Sukabumi, JK 01785",16345,+62 (0396) 096 7923
+825,825,"Jalan W.R. Supratman No. 479
+Padang, Sulawesi Utara 36656",49328,(0169) 981 9129
+826,826,"Gg. KH Amin Jasuta No. 02
+Palangkaraya, BE 76007",81844,086 450 5832
+827,827,"Jl. Ciwastra No. 99
+Langsa, Maluku Utara 59026",59341,+62-79-480-9840
+828,828,"Gang Setiabudhi No. 43
+Tomohon, Nusa Tenggara Barat 15617",27768,+62 (065) 558 0777
+829,829,"Jalan Rajawali Timur No. 12
+Ternate, Sumatera Selatan 52143",14185,+62 (0457) 094 4862
+830,830,"Gg. Surapati No. 60
+Pariaman, JK 24351",65059,(0538) 700-1014
+831,831,"Gg. Sadang Serang No. 37
+Bandar Lampung, Banten 95549",72309,(0674) 547-6424
+832,832,"Gang Laswi No. 7
+Madiun, MA 02894",97441,+62 (168) 506 1663
+833,833,"Jalan W.R. Supratman No. 3
+Solok, Kalimantan Utara 22082",90142,+62-88-062-4672
+834,834,"Gang Kiaracondong No. 9
+Pekanbaru, Kepulauan Riau 17215",27815,+62 (71) 281-3040
+835,835,"Gang Cikutra Timur No. 12
+Tomohon, BA 18473",96134,+62 (0430) 353 2679
+836,836,"Jl. Medokan Ayu No. 591
+Bandar Lampung, KR 24801",72847,+62-924-421-2264
+837,837,"Jl. Ahmad Dahlan No. 219
+Palu, Kalimantan Timur 87466",99903,(001) 211 3375
+838,838,"Gang Dr. Djunjunan No. 68
+Meulaboh, Kalimantan Utara 26543",29626,+62 (75) 007 4792
+839,839,"Jalan Rawamangun No. 154
+Kendari, SB 86246",47401,+62 (223) 499-3137
+840,840,"Gg. Ciumbuleuit No. 64
+Bogor, Papua Barat 60895",73367,+62 (005) 263 8824
+841,841,"Jl. Suryakencana No. 02
+Subulussalam, Jambi 01877",58762,087 429 4618
+842,842,"Gang Suryakencana No. 62
+Palopo, Riau 89038",71201,+62 (066) 396 4213
+843,843,"Gg. Pacuan Kuda No. 774
+Tomohon, KI 27122",25904,+62-721-514-2212
+844,844,"Jalan Veteran No. 846
+Batam, NB 83962",40673,+62 (005) 529 5587
+845,845,"Jl. Peta No. 5
+Jambi, YO 56997",50196,0807008316
+846,846,"Gang Pacuan Kuda No. 448
+Batu, DI Yogyakarta 37538",87732,0857828679
+847,847,"Gg. BKR No. 58
+Bitung, Papua Barat 82989",47409,+62 (791) 404-6780
+848,848,"Gg. Otto Iskandardinata No. 1
+Tegal, SG 68040",40123,+62-041-527-2206
+849,849,"Jl. Kebonjati No. 7
+Denpasar, LA 54393",59169,+62 (42) 153-3073
+850,850,"Jl. Raya Ujungberung No. 742
+Sukabumi, Kalimantan Tengah 58892",40075,(0542) 177 3741
+851,851,"Jalan Kutisari Selatan No. 2
+Sabang, Aceh 69075",08786,+62-0452-817-2276
+852,852,"Gang Pasirkoja No. 77
+Semarang, Kalimantan Selatan 84139",08833,+62-995-194-8931
+853,853,"Gg. PHH. Mustofa No. 9
+Sabang, JI 90768",38409,083 566 4474
+854,854,"Jalan H.J Maemunah No. 2
+Cirebon, Jawa Barat 34589",40920,+62-63-956-4646
+855,855,"Gg. Kebonjati No. 1
+Parepare, SG 31597",73423,+62-19-698-8359
+856,856,"Jalan Kebonjati No. 78
+Lhokseumawe, SN 35666",59240,(080) 543-3722
+857,857,"Gg. Ciwastra No. 417
+Pematangsiantar, Kalimantan Timur 23131",62447,+62 (38) 545 2466
+858,858,"Jl. H.J Maemunah No. 663
+Tarakan, Lampung 66618",66912,+62 (0281) 037-6176
+859,859,"Gg. BKR No. 5
+Subulussalam, YO 53070",86709,(073) 047 1376
+860,860,"Gang Dr. Djunjunan No. 13
+Meulaboh, KU 72976",59112,(0571) 430-7297
+861,861,"Gg. Wonoayu No. 7
+Mojokerto, Aceh 29764",06521,+62 (260) 403 8659
+862,862,"Gang Laswi No. 100
+Manado, Maluku 54969",47525,+62-23-401-6115
+863,863,"Jalan Soekarno Hatta No. 98
+Pekanbaru, KS 03941",93762,(0991) 499-0194
+864,864,"Gang Rumah Sakit No. 7
+Bontang, KT 01779",09033,+62 (247) 886 9552
+865,865,"Jalan Ciwastra No. 043
+Bogor, BE 48504",16075,+62 (97) 180 4455
+866,866,"Jalan HOS. Cokroaminoto No. 3
+Kota Administrasi Jakarta Barat, RI 61692",04556,+62-0993-174-9637
+867,867,"Jalan Moch. Toha No. 232
+Dumai, Kalimantan Selatan 18074",00063,+62-0549-614-7218
+868,868,"Jalan Joyoboyo No. 9
+Banjar, BT 86991",77050,+62 (363) 838-2175
+869,869,"Gg. W.R. Supratman No. 7
+Sibolga, SU 29796",53618,(062) 061 1666
+870,870,"Gg. Otto Iskandardinata No. 6
+Kota Administrasi Jakarta Timur, Bengkulu 79177",81184,+62 (37) 932 0076
+871,871,"Jalan Ciumbuleuit No. 161
+Malang, PB 83726",84519,+62-067-105-7495
+872,872,"Gang Pasirkoja No. 6
+Pematangsiantar, Jawa Timur 13523",96986,+62 (519) 145-8315
+873,873,"Jl. Cikapayang No. 2
+Pekalongan, KU 39692",78887,087 638 3406
+874,874,"Jalan Jakarta No. 556
+Semarang, Nusa Tenggara Barat 40849",88362,+62-47-451-2242
+875,875,"Gang Rajiman No. 448
+Parepare, Kepulauan Riau 56581",32920,(053) 118 3374
+876,876,"Jl. W.R. Supratman No. 198
+Tegal, Sumatera Utara 93339",87483,+62 (034) 311-8148
+877,877,"Gg. Lembong No. 249
+Makassar, BT 16258",84565,+62 (20) 711-2969
+878,878,"Jl. Cempaka No. 14
+Denpasar, JT 01522",91611,+62-224-756-1243
+879,879,"Jalan Antapani Lama No. 820
+Pagaralam, Maluku Utara 27678",47080,+62 (069) 886-6350
+880,880,"Jalan Waringin No. 898
+Payakumbuh, Banten 76882",43919,+62 (26) 855 4551
+881,881,"Jl. Rungkut Industri No. 779
+Cirebon, Bengkulu 31141",01051,+62-035-115-3112
+882,882,"Gg. Rajiman No. 0
+Tual, JA 03314",97367,+62 (0790) 333 3427
+883,883,"Gang Sadang Serang No. 3
+Palangkaraya, Jawa Timur 72444",87872,+62 (45) 171 8543
+884,884,"Jl. Veteran No. 5
+Blitar, Nusa Tenggara Barat 15443",62792,(028) 340 3783
+885,885,"Gang Otto Iskandardinata No. 9
+Manado, Sulawesi Selatan 70982",13222,+62 (0008) 052-2599
+886,886,"Jalan Rajiman No. 4
+Surabaya, NB 79024",81648,+62-056-604-6471
+887,887,"Jl. Suryakencana No. 2
+Pariaman, JA 73165",04764,082 745 4661
+888,888,"Gang Gedebage Selatan No. 73
+Kota Administrasi Jakarta Barat, MU 34020",51559,+62 (48) 555 9575
+889,889,"Gg. Waringin No. 676
+Singkawang, KB 92622",59432,+62 (085) 632 0529
+890,890,"Jalan Cikapayang No. 2
+Sorong, PB 04733",51662,(019) 232 3894
+891,891,"Jl. Pasteur No. 56
+Kota Administrasi Jakarta Timur, NT 87407",21834,+62 (0033) 953-3681
+892,892,"Jalan M.T Haryono No. 5
+Bukittinggi, JB 13140",53827,0844043849
+893,893,"Gang Pelajar Pejuang No. 0
+Manado, Bali 28382",93684,+62-068-869-9307
+894,894,"Gg. Tebet Barat Dalam No. 7
+Bukittinggi, Kalimantan Timur 14498",38549,+62 (069) 394 5402
+895,895,"Gang Wonoayu No. 021
+Magelang, BA 18162",36516,(078) 745-0867
+896,896,"Jalan Gardujati No. 919
+Denpasar, SR 76188",96994,+62-63-428-2483
+897,897,"Jl. Kapten Muslihat No. 7
+Payakumbuh, DKI Jakarta 12854",37722,+62 (76) 854-1667
+898,898,"Gang H.J Maemunah No. 220
+Langsa, KS 11363",00339,+62 (562) 608 5822
+899,899,"Gg. Kutai No. 402
+Probolinggo, Kalimantan Utara 66044",03946,+62 (049) 528 7068
+900,900,"Jl. M.T Haryono No. 6
+Pasuruan, MA 76500",13224,+62-086-893-7280
+901,901,"Jl. Dipatiukur No. 7
+Samarinda, NT 67735",50410,081 907 2262
+902,902,"Jalan Peta No. 0
+Cimahi, Sulawesi Tenggara 48076",62840,+62-161-023-3736
+903,903,"Jl. Joyoboyo No. 064
+Langsa, KU 41481",07032,+62 (287) 287 9388
+904,904,"Jalan Jakarta No. 89
+Kota Administrasi Jakarta Selatan, KU 89593",22344,(0470) 441 9154
+905,905,"Jl. Ir. H. Djuanda No. 150
+Parepare, Sulawesi Utara 77668",09490,0800537190
+906,906,"Gg. Cikutra Barat No. 31
+Parepare, KU 91801",33084,+62 (024) 973 4959
+907,907,"Jl. Suniaraja No. 639
+Bau-Bau, Nusa Tenggara Timur 91318",73042,+62 (89) 098-7319
+908,908,"Jalan Rungkut Industri No. 4
+Bengkulu, PA 10113",77346,080 654 6375
+909,909,"Gang Rajiman No. 5
+Denpasar, Banten 01746",12946,+62 (68) 309 6330
+910,910,"Gg. Cikutra Timur No. 6
+Salatiga, KI 08394",80028,+62 (03) 970 2213
+911,911,"Jl. Abdul Muis No. 01
+Pontianak, SR 16522",61591,+62 (075) 946 4930
+912,912,"Jalan M.H Thamrin No. 12
+Salatiga, RI 43215",19028,+62 (669) 431-4672
+913,913,"Jalan Waringin No. 52
+Bitung, Jawa Timur 89994",08421,+62-070-543-7146
+914,914,"Jl. Kutisari Selatan No. 79
+Singkawang, NT 81319",99639,+62 (63) 824 2781
+915,915,"Jl. Cikutra Barat No. 783
+Bandar Lampung, Jambi 15034",37112,+62-127-561-1884
+916,916,"Gang Kutisari Selatan No. 2
+Banda Aceh, KT 04353",42455,(035) 516 1797
+917,917,"Jl. Astana Anyar No. 0
+Pasuruan, MU 03932",18302,+62 (0187) 224-9443
+918,918,"Gang Cihampelas No. 75
+Ternate, Kepulauan Bangka Belitung 54946",89901,(0753) 237 6104
+919,919,"Jl. Antapani Lama No. 698
+Padangpanjang, Kalimantan Timur 64499",04913,+62 (0286) 991 0252
+920,920,"Jalan BKR No. 22
+Medan, MA 42284",94190,+62 (468) 849-9293
+921,921,"Jl. Dipatiukur No. 89
+Tomohon, Kalimantan Utara 42754",22815,+62 (0423) 962 9356
+922,922,"Jalan K.H. Wahid Hasyim No. 05
+Kota Administrasi Jakarta Barat, MA 60122",66739,+62-184-253-8973
+923,923,"Jalan Jakarta No. 3
+Banda Aceh, JI 64552",65503,+62-866-946-3471
+924,924,"Gg. M.H Thamrin No. 21
+Kupang, Sulawesi Barat 19005",61646,+62 (821) 856-5340
+925,925,"Gg. Sentot Alibasa No. 6
+Banjar, Kalimantan Barat 67818",61838,+62 (086) 428-3365
+926,926,"Gang Astana Anyar No. 819
+Bitung, KS 61604",34073,+62 (0661) 385 0483
+927,927,"Gang Cikapayang No. 3
+Tebingtinggi, Maluku Utara 55039",30396,+62 (0358) 380-7039
+928,928,"Gg. Joyoboyo No. 586
+Cirebon, MA 16611",46667,+62 (760) 488 4389
+929,929,"Jalan Waringin No. 12
+Padang Sidempuan, Nusa Tenggara Timur 07057",79991,+62-572-909-3922
+930,930,"Jalan Rungkut Industri No. 4
+Subulussalam, BA 77221",06834,+62-0483-852-6850
+931,931,"Gang Suryakencana No. 32
+Tidore Kepulauan, JI 08437",47213,+62 (0532) 010-0435
+932,932,"Jl. Suryakencana No. 50
+Palopo, PB 26287",37909,(0277) 746-6476
+933,933,"Gg. Rajawali Timur No. 320
+Kotamobagu, Lampung 01911",97045,+62 (37) 755-1259
+934,934,"Jalan Sukajadi No. 46
+Banjarbaru, KB 53889",56115,+62 (47) 715-9663
+935,935,"Jalan Cempaka No. 3
+Bukittinggi, Sumatera Barat 12296",24871,+62-018-042-0128
+936,936,"Gg. Sukabumi No. 7
+Sabang, KS 12142",30987,+62 (063) 292-5067
+937,937,"Jalan Tebet Barat Dalam No. 1
+Sukabumi, SN 28145",09085,0838156386
+938,938,"Gang Raya Setiabudhi No. 327
+Palopo, DKI Jakarta 70582",66570,089 824 6758
+939,939,"Gg. Bangka Raya No. 2
+Parepare, Nusa Tenggara Barat 51689",42200,+62-012-169-4715
+940,940,"Gang BKR No. 9
+Tangerang Selatan, Papua 96228",33107,+62 (0957) 211-0519
+941,941,"Jl. Kendalsari No. 436
+Bekasi, Kepulauan Bangka Belitung 77597",08111,+62 (068) 582 0140
+942,942,"Gg. Indragiri No. 487
+Cirebon, SG 85739",77029,+62 (56) 514 6913
+943,943,"Jalan BKR No. 554
+Bandung, AC 34563",30748,+62 (067) 853-2447
+944,944,"Gang Gegerkalong Hilir No. 99
+Bekasi, SU 04980",17735,+62 (040) 398 3115
+945,945,"Jl. Moch. Ramdan No. 90
+Manado, SG 64624",50733,(028) 354-6607
+946,946,"Jalan Erlangga No. 671
+Pangkalpinang, Kalimantan Selatan 20839",36910,+62 (014) 470 3528
+947,947,"Gang Tebet Barat Dalam No. 116
+Bogor, SU 17611",10504,+62-696-892-3975
+948,948,"Gg. Kutai No. 403
+Jayapura, Jawa Barat 32459",34921,+62-0822-446-4323
+949,949,"Gg. Kutisari Selatan No. 693
+Manado, Sulawesi Selatan 84838",93985,+62-0237-494-1529
+950,950,"Jalan Erlangga No. 57
+Banda Aceh, Papua Barat 29724",17252,+62 (19) 111-6937
+951,951,"Jl. Pelajar Pejuang No. 182
+Kotamobagu, PB 03557",95225,+62 (117) 362 7722
+952,952,"Gg. Jend. A. Yani No. 9
+Jayapura, Sumatera Barat 03558",96672,+62-810-960-0668
+953,953,"Gang H.J Maemunah No. 8
+Pangkalpinang, BT 43996",16567,+62 (0858) 178-8735
+954,954,"Jl. Ronggowarsito No. 96
+Jayapura, Jawa Tengah 73259",08713,(026) 937-5558
+955,955,"Jl. Jend. Sudirman No. 33
+Palangkaraya, Sulawesi Utara 83323",39281,+62 (0215) 102 0887
+956,956,"Jl. Dipatiukur No. 058
+Prabumulih, Papua Barat 40385",37299,+62 (040) 802-2527
+957,957,"Jalan Tebet Barat Dalam No. 472
+Jayapura, Sumatera Barat 18626",07832,+62 (240) 461-8379
+958,958,"Jalan Ronggowarsito No. 8
+Tanjungbalai, BE 81323",76306,+62 (04) 272 4234
+959,959,"Gg. R.E Martadinata No. 238
+Bogor, BT 56275",61654,+62-094-604-5771
+960,960,"Gg. Antapani Lama No. 82
+Madiun, Sulawesi Tengah 96474",74016,(088) 664-6919
+961,961,"Jalan M.T Haryono No. 2
+Banjarbaru, Sulawesi Tenggara 53343",19117,(095) 717-9477
+962,962,"Jl. Sentot Alibasa No. 5
+Tual, Sulawesi Tenggara 04452",96522,(037) 126-1393
+963,963,"Gang Medokan Ayu No. 5
+Solok, SU 26865",95187,+62 (39) 525-3923
+964,964,"Gang HOS. Cokroaminoto No. 0
+Dumai, Lampung 25112",17184,0825691559
+965,965,"Jalan Kutai No. 360
+Kota Administrasi Jakarta Timur, GO 77899",58683,(0508) 956-1836
+966,966,"Gang Peta No. 379
+Jayapura, Kalimantan Utara 17172",86714,+62 (475) 150-5299
+967,967,"Jalan Cempaka No. 039
+Kota Administrasi Jakarta Selatan, Riau 98055",61184,(0939) 307 1246
+968,968,"Jl. Rajawali Barat No. 265
+Manado, ST 72492",11058,+62-57-727-4619
+969,969,"Jl. Jend. A. Yani No. 16
+Cimahi, ST 71394",45028,+62 (72) 885 3771
+970,970,"Jalan Siliwangi No. 82
+Solok, Sulawesi Selatan 39080",12892,+62-0026-909-0728
+971,971,"Jalan Jend. Sudirman No. 102
+Palopo, KB 92028",08638,+62-38-176-2352
+972,972,"Jalan Moch. Ramdan No. 6
+Pontianak, SG 47922",07183,+62 (05) 052-7281
+973,973,"Jl. Laswi No. 7
+Tegal, NT 05586",18163,(044) 525-3829
+974,974,"Jalan KH Amin Jasuta No. 3
+Magelang, KU 53444",12046,083 070 7443
+975,975,"Jalan Jakarta No. 9
+Payakumbuh, BE 41043",67469,080 193 3209
+976,976,"Jalan K.H. Wahid Hasyim No. 1
+Tegal, YO 56158",81143,0869247458
+977,977,"Gg. S. Parman No. 48
+Bukittinggi, DKI Jakarta 39415",96393,+62 (0286) 181-9952
+978,978,"Gg. Lembong No. 812
+Kota Administrasi Jakarta Selatan, Sulawesi Tenggara 14765",51966,+62 (01) 223-4685
+979,979,"Gang Jakarta No. 65
+Semarang, Sumatera Selatan 50673",51675,+62 (52) 386 3470
+980,980,"Gang Kendalsari No. 78
+Payakumbuh, Nusa Tenggara Timur 77612",77616,+62-648-583-5004
+981,981,"Gang Jayawijaya No. 2
+Pekalongan, SB 40910",88745,+62-19-571-1844
+982,982,"Gg. Suryakencana No. 379
+Purwokerto, PB 12904",82306,+62-41-839-8256
+983,983,"Gg. M.H Thamrin No. 9
+Tomohon, KS 39239",78086,+62 (065) 002-8979
+984,984,"Jalan Gardujati No. 7
+Bukittinggi, KU 04927",70755,+62 (331) 471 1202
+985,985,"Gang R.E Martadinata No. 031
+Cimahi, Sumatera Selatan 37751",89807,+62-0763-949-7711
+986,986,"Gg. Rajawali Barat No. 91
+Palangkaraya, SU 05436",42921,(017) 208 0718
+987,987,"Gang Pasirkoja No. 12
+Binjai, MU 41117",14331,+62 (68) 323-4826
+988,988,"Gg. Monginsidi No. 93
+Surakarta, PB 68891",88747,+62 (49) 552 0578
+989,989,"Jl. Rajiman No. 64
+Padangpanjang, Lampung 36617",66843,(0322) 484-1251
+990,990,"Jl. HOS. Cokroaminoto No. 084
+Sukabumi, KS 28557",72534,081 195 3822
+991,991,"Gg. Waringin No. 75
+Madiun, NB 16421",36340,+62 (401) 269 1251
+992,992,"Jl. Stasiun Wonokromo No. 551
+Kendari, JI 06312",31717,+62 (0934) 835 0025
+993,993,"Gang Jend. A. Yani No. 5
+Kendari, Maluku 25278",75126,+62 (503) 423-4447
+994,994,"Gg. Joyoboyo No. 2
+Serang, Bengkulu 57646",84151,+62 (0312) 185 8302
+995,995,"Gg. K.H. Wahid Hasyim No. 82
+Sawahlunto, Riau 17983",61821,(061) 597 3734
+996,996,"Gang Abdul Muis No. 1
+Kota Administrasi Jakarta Timur, Jambi 35977",37643,(083) 918-7997
+997,997,"Jl. Kutai No. 6
+Sorong, KS 11957",64997,+62-23-983-5543
+998,998,"Gg. Erlangga No. 16
+Tebingtinggi, DKI Jakarta 32561",76120,+62 (015) 825 8206
+999,999,"Jalan Indragiri No. 442
+Banda Aceh, PB 23471",05798,0873622457
+1000,1000,"Jalan Raya Setiabudhi No. 120
+Kota Administrasi Jakarta Timur, Kalimantan Selatan 10630",48330,+62 (0098) 306-3770
